@@ -1,0 +1,4426 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ROR_BibleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 521}}";
+			sepNavSelRange = "{738, 0}";
+			sepNavVisRange = "{0, 882}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ROR_BibleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1846}}";
+			sepNavSelRange = "{2697, 0}";
+			sepNavVisRange = "{569, 1966}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ROR_Bible */ = {
+		activeExec = 0;
+		executables = (
+			B9CE64881356FA6F00BD1250 /* ROR_Bible */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ROR_BibleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 2418}}";
+			sepNavSelRange = "{5989, 0}";
+			sepNavVisRange = "{4932, 1610}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ROR_BibleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 18408}}";
+			sepNavSelRange = "{42176, 0}";
+			sepNavVisRange = "{41448, 421}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = B9CE64881356FA6F00BD1250 /* ROR_Bible */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ROR_Bible */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ROR_Bible */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = B9CE64931356FA8E00BD1250 /* Code sense */;
+		executables = (
+			B9CE64881356FA6F00BD1250 /* ROR_Bible */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					712,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					672,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 337166020;
+			PBXWorkspaceStateSaveDate = 337166020;
+		};
+		perUserProjectItems = {
+			B900B328138AE78A00844F48 = B900B328138AE78A00844F48 /* PBXTextBookmark */;
+			B902603D13B8AE2600047155 = B902603D13B8AE2600047155 /* PBXTextBookmark */;
+			B902609713B8ED7C00047155 = B902609713B8ED7C00047155 /* PBXTextBookmark */;
+			B91214351410EBEA00C54C5F = B91214351410EBEA00C54C5F /* PBXTextBookmark */;
+			B912144214126FE800C54C5F = B912144214126FE800C54C5F /* PBXTextBookmark */;
+			B912144314126FE800C54C5F = B912144314126FE800C54C5F /* PBXTextBookmark */;
+			B912144414126FE800C54C5F = B912144414126FE800C54C5F /* PBXTextBookmark */;
+			B915FC791418BECE0017FD46 /* PBXTextBookmark */ = B915FC791418BECE0017FD46 /* PBXTextBookmark */;
+			B9305F7B13B0A9D800BE50D5 = B9305F7B13B0A9D800BE50D5 /* PBXTextBookmark */;
+			B9305FD013B209E200BE50D5 = B9305FD013B209E200BE50D5 /* PBXTextBookmark */;
+			B9305FD113B209E200BE50D5 = B9305FD113B209E200BE50D5 /* PBXTextBookmark */;
+			B9490503141698E100D0CC27 = B9490503141698E100D0CC27 /* PBXTextBookmark */;
+			B95121341361AB4C008B0919 = B95121341361AB4C008B0919 /* PBXTextBookmark */;
+			B956FBB8141778040079E328 = B956FBB8141778040079E328 /* PBXTextBookmark */;
+			B956FBBA141778040079E328 = B956FBBA141778040079E328 /* PBXTextBookmark */;
+			B956FBC914177C390079E328 = B956FBC914177C390079E328 /* PBXTextBookmark */;
+			B956FBCA14177C390079E328 = B956FBCA14177C390079E328 /* PBXTextBookmark */;
+			B956FBD514177E020079E328 = B956FBD514177E020079E328 /* PBXTextBookmark */;
+			B956FC09141787DC0079E328 = B956FC09141787DC0079E328 /* PBXTextBookmark */;
+			B956FC0A141787DC0079E328 = B956FC0A141787DC0079E328 /* PBXTextBookmark */;
+			B956FC0B141787DC0079E328 = B956FC0B141787DC0079E328 /* PBXTextBookmark */;
+			B956FC361417A9270079E328 = B956FC361417A9270079E328 /* PBXTextBookmark */;
+			B965C8D513748C030049CBD1 = B965C8D513748C030049CBD1 /* PBXTextBookmark */;
+			B965C8D713748C030049CBD1 = B965C8D713748C030049CBD1 /* PBXTextBookmark */;
+			B9685DE213FFF9B1000829FC = B9685DE213FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2313FFF9B1000829FC = B9685E2313FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2613FFF9B1000829FC = B9685E2613FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2713FFF9B1000829FC = B9685E2713FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2913FFF9B1000829FC = B9685E2913FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2B13FFF9B1000829FC = B9685E2B13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2C13FFF9B1000829FC = B9685E2C13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2D13FFF9B1000829FC = B9685E2D13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2E13FFF9B1000829FC = B9685E2E13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E2F13FFF9B1000829FC = B9685E2F13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3013FFF9B1000829FC = B9685E3013FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3113FFF9B1000829FC = B9685E3113FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3213FFF9B1000829FC = B9685E3213FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3313FFF9B1000829FC = B9685E3313FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3413FFF9B1000829FC = B9685E3413FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3513FFF9B1000829FC = B9685E3513FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3613FFF9B1000829FC = B9685E3613FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3713FFF9B1000829FC = B9685E3713FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3813FFF9B1000829FC = B9685E3813FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3913FFF9B1000829FC = B9685E3913FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3A13FFF9B1000829FC = B9685E3A13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3B13FFF9B1000829FC = B9685E3B13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3C13FFF9B1000829FC = B9685E3C13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E3D13FFF9B1000829FC = B9685E3D13FFF9B1000829FC /* PBXTextBookmark */;
+			B9685E52140243AE000829FC = B9685E52140243AE000829FC /* PBXTextBookmark */;
+			B9685E53140243AE000829FC = B9685E53140243AE000829FC /* PBXTextBookmark */;
+			B9685E54140243AE000829FC = B9685E54140243AE000829FC /* PBXTextBookmark */;
+			B9685E57140243AE000829FC = B9685E57140243AE000829FC /* PBXTextBookmark */;
+			B9685E59140243AE000829FC = B9685E59140243AE000829FC /* PBXTextBookmark */;
+			B9685E5E14024643000829FC = B9685E5E14024643000829FC /* PBXTextBookmark */;
+			B9685E5F14024643000829FC = B9685E5F14024643000829FC /* PBXTextBookmark */;
+			B9685E621402570E000829FC = B9685E621402570E000829FC /* PBXTextBookmark */;
+			B9685E631402570E000829FC = B9685E631402570E000829FC /* PBXTextBookmark */;
+			B9685E641402570E000829FC = B9685E641402570E000829FC /* PBXTextBookmark */;
+			B9685E6614026937000829FC = B9685E6614026937000829FC /* PBXTextBookmark */;
+			B9685E6714026937000829FC = B9685E6714026937000829FC /* PBXTextBookmark */;
+			B9685E6814026937000829FC = B9685E6814026937000829FC /* PBXTextBookmark */;
+			B9685E6914026937000829FC = B9685E6914026937000829FC /* PBXTextBookmark */;
+			B9685E6A14026937000829FC = B9685E6A14026937000829FC /* PBXTextBookmark */;
+			B9685E6B14026937000829FC = B9685E6B14026937000829FC /* PBXTextBookmark */;
+			B9685E6C14026937000829FC = B9685E6C14026937000829FC /* PBXTextBookmark */;
+			B9685E6D14026937000829FC = B9685E6D14026937000829FC /* PBXTextBookmark */;
+			B9685E6E14026937000829FC = B9685E6E14026937000829FC /* PBXTextBookmark */;
+			B9685E6F14026937000829FC = B9685E6F14026937000829FC /* PBXTextBookmark */;
+			B9685E7014026937000829FC = B9685E7014026937000829FC /* PBXTextBookmark */;
+			B9685E7114026937000829FC = B9685E7114026937000829FC /* PBXTextBookmark */;
+			B9685E7214026937000829FC = B9685E7214026937000829FC /* PBXTextBookmark */;
+			B9685E7314026937000829FC = B9685E7314026937000829FC /* PBXTextBookmark */;
+			B9685E7814026B35000829FC = B9685E7814026B35000829FC /* PBXTextBookmark */;
+			B9685E7C14026C70000829FC = B9685E7C14026C70000829FC /* PBXTextBookmark */;
+			B9685E7D14026C70000829FC = B9685E7D14026C70000829FC /* PBXTextBookmark */;
+			B9685E7F14026C70000829FC = B9685E7F14026C70000829FC /* PBXTextBookmark */;
+			B9685E82140270CA000829FC = B9685E82140270CA000829FC /* PBXTextBookmark */;
+			B9685E83140270CA000829FC = B9685E83140270CA000829FC /* PBXTextBookmark */;
+			B9685E84140270CA000829FC = B9685E84140270CA000829FC /* PBXTextBookmark */;
+			B9685E85140270CA000829FC = B9685E85140270CA000829FC /* PBXTextBookmark */;
+			B9685E86140270CA000829FC = B9685E86140270CA000829FC /* PBXTextBookmark */;
+			B9685E87140270CA000829FC = B9685E87140270CA000829FC /* PBXTextBookmark */;
+			B9685E88140270CA000829FC = B9685E88140270CA000829FC /* PBXTextBookmark */;
+			B9685E89140270CA000829FC = B9685E89140270CA000829FC /* PBXTextBookmark */;
+			B9685E8A140270CA000829FC = B9685E8A140270CA000829FC /* PBXTextBookmark */;
+			B9685E8B140270CA000829FC = B9685E8B140270CA000829FC /* PBXTextBookmark */;
+			B9685E8C140270CA000829FC = B9685E8C140270CA000829FC /* PBXTextBookmark */;
+			B9685E8D140270CA000829FC = B9685E8D140270CA000829FC /* PBXTextBookmark */;
+			B9685E8E140270CA000829FC = B9685E8E140270CA000829FC /* PBXTextBookmark */;
+			B9685E8F140270CA000829FC = B9685E8F140270CA000829FC /* PBXTextBookmark */;
+			B9685E90140270CA000829FC = B9685E90140270CA000829FC /* PBXTextBookmark */;
+			B9685E91140270CA000829FC = B9685E91140270CA000829FC /* PBXTextBookmark */;
+			B9685E9514027744000829FC = B9685E9514027744000829FC /* PBXTextBookmark */;
+			B9685E9614027744000829FC = B9685E9614027744000829FC /* PBXTextBookmark */;
+			B9685E9714027744000829FC = B9685E9714027744000829FC /* PBXTextBookmark */;
+			B9685E9814027744000829FC = B9685E9814027744000829FC /* PBXTextBookmark */;
+			B9685E9914027744000829FC = B9685E9914027744000829FC /* PBXTextBookmark */;
+			B9685E9A14027744000829FC = B9685E9A14027744000829FC /* PBXTextBookmark */;
+			B9685E9B14027744000829FC = B9685E9B14027744000829FC /* PBXTextBookmark */;
+			B9685E9C14027744000829FC = B9685E9C14027744000829FC /* PBXTextBookmark */;
+			B9685E9D14027744000829FC = B9685E9D14027744000829FC /* PBXTextBookmark */;
+			B9685E9E14027744000829FC = B9685E9E14027744000829FC /* PBXTextBookmark */;
+			B9685E9F14027744000829FC = B9685E9F14027744000829FC /* PBXTextBookmark */;
+			B9685EA014027744000829FC = B9685EA014027744000829FC /* PBXTextBookmark */;
+			B9685EA114027744000829FC = B9685EA114027744000829FC /* PBXTextBookmark */;
+			B9685EA214027744000829FC = B9685EA214027744000829FC /* PBXTextBookmark */;
+			B9685EA314027744000829FC = B9685EA314027744000829FC /* PBXTextBookmark */;
+			B9685EA414027744000829FC = B9685EA414027744000829FC /* PBXTextBookmark */;
+			B9685EA514027744000829FC = B9685EA514027744000829FC /* PBXTextBookmark */;
+			B9685EA614027744000829FC = B9685EA614027744000829FC /* PBXTextBookmark */;
+			B9685EA714027744000829FC = B9685EA714027744000829FC /* PBXTextBookmark */;
+			B9685EA814027744000829FC = B9685EA814027744000829FC /* PBXTextBookmark */;
+			B9685EA914027744000829FC = B9685EA914027744000829FC /* PBXTextBookmark */;
+			B9685EAA14027744000829FC = B9685EAA14027744000829FC /* PBXTextBookmark */;
+			B9685EAD140277CF000829FC = B9685EAD140277CF000829FC /* PBXTextBookmark */;
+			B9685EAE140277CF000829FC = B9685EAE140277CF000829FC /* PBXTextBookmark */;
+			B9685EAF140277CF000829FC = B9685EAF140277CF000829FC /* PBXTextBookmark */;
+			B9685EB0140277CF000829FC = B9685EB0140277CF000829FC /* PBXTextBookmark */;
+			B9685EB1140277CF000829FC = B9685EB1140277CF000829FC /* PBXTextBookmark */;
+			B9685EB2140277CF000829FC = B9685EB2140277CF000829FC /* PBXTextBookmark */;
+			B9685ED5140286B3000829FC = B9685ED5140286B3000829FC /* PBXTextBookmark */;
+			B9685ED6140286B3000829FC = B9685ED6140286B3000829FC /* PBXTextBookmark */;
+			B96E05E713CE2171003E1E9B = B96E05E713CE2171003E1E9B /* PBXTextBookmark */;
+			B96E05EE13CE2400003E1E9B = B96E05EE13CE2400003E1E9B /* PBXTextBookmark */;
+			B97BCB25136086E4004C490C = B97BCB25136086E4004C490C /* PBXTextBookmark */;
+			B97EBCF413DAC01F00497C10 = B97EBCF413DAC01F00497C10 /* PBXTextBookmark */;
+			B97EBCF513DAC01F00497C10 = B97EBCF513DAC01F00497C10 /* PBXTextBookmark */;
+			B981CA5013DEAE9100D8E911 = B981CA5013DEAE9100D8E911 /* PBXTextBookmark */;
+			B981CA5113DEAE9100D8E911 = B981CA5113DEAE9100D8E911 /* PBXTextBookmark */;
+			B9820B9C13A7BE85008206E8 = B9820B9C13A7BE85008206E8 /* PBXBookmark */;
+			B9820BB113A7C07F008206E8 = B9820BB113A7C07F008206E8 /* PBXBookmark */;
+			B9820DB213ADBECC008206E8 = B9820DB213ADBECC008206E8 /* PBXTextBookmark */;
+			B9820DB313ADBECC008206E8 = B9820DB313ADBECC008206E8 /* PBXTextBookmark */;
+			B983016013EDAAB400F35FC9 = B983016013EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016213EDAAB400F35FC9 = B983016213EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016313EDAAB400F35FC9 = B983016313EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016513EDAAB400F35FC9 = B983016513EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016613EDAAB400F35FC9 = B983016613EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016713EDAAB400F35FC9 = B983016713EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016813EDAAB400F35FC9 = B983016813EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016913EDAAB400F35FC9 = B983016913EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016B13EDAAB400F35FC9 = B983016B13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016C13EDAAB400F35FC9 = B983016C13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016D13EDAAB400F35FC9 = B983016D13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016E13EDAAB400F35FC9 = B983016E13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983016F13EDAAB400F35FC9 = B983016F13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017113EDAAB400F35FC9 = B983017113EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017313EDAAB400F35FC9 = B983017313EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017513EDAAB400F35FC9 = B983017513EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017713EDAAB400F35FC9 = B983017713EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017A13EDAAB400F35FC9 = B983017A13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983017C13EDAAB400F35FC9 = B983017C13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018013EDAAB400F35FC9 = B983018013EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018213EDAAB400F35FC9 = B983018213EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018313EDAAB400F35FC9 = B983018313EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018413EDAAB400F35FC9 = B983018413EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018513EDAAB400F35FC9 = B983018513EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018713EDAAB400F35FC9 = B983018713EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018913EDAAB400F35FC9 = B983018913EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018B13EDAAB400F35FC9 = B983018B13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983018E13EDAAB400F35FC9 = B983018E13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019313EDAAB400F35FC9 = B983019313EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019513EDAAB400F35FC9 = B983019513EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019713EDAAB400F35FC9 = B983019713EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019813EDAAB400F35FC9 = B983019813EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019913EDAAB400F35FC9 = B983019913EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019A13EDAAB400F35FC9 = B983019A13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019B13EDAAB400F35FC9 = B983019B13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019C13EDAAB400F35FC9 = B983019C13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983019F13EDAAB400F35FC9 = B983019F13EDAAB400F35FC9 /* PBXTextBookmark */;
+			B983FFCA13E266CC00F35FC9 = B983FFCA13E266CC00F35FC9 /* PBXTextBookmark */;
+			B983FFCB13E266CC00F35FC9 = B983FFCB13E266CC00F35FC9 /* PBXTextBookmark */;
+			B987AC95135C7C86000A84D6 = B987AC95135C7C86000A84D6 /* PBXTextBookmark */;
+			B988C02D13D96E6D00F0D9E2 = B988C02D13D96E6D00F0D9E2 /* PBXTextBookmark */;
+			B98E2C67139A37AF00472D14 = B98E2C67139A37AF00472D14 /* PBXTextBookmark */;
+			B98E503413718C0600FEF738 = B98E503413718C0600FEF738 /* PBXTextBookmark */;
+			B997E3B913D5920C00463FC1 = B997E3B913D5920C00463FC1 /* PBXTextBookmark */;
+			B997E3BA13D5920C00463FC1 = B997E3BA13D5920C00463FC1 /* PBXTextBookmark */;
+			B997E3BB13D5920C00463FC1 = B997E3BB13D5920C00463FC1 /* PBXTextBookmark */;
+			B997E3D413D5A4E200463FC1 = B997E3D413D5A4E200463FC1 /* PBXTextBookmark */;
+			B9A045B71393D50F004C9898 = B9A045B71393D50F004C9898 /* PBXTextBookmark */;
+			B9A045B81393D50F004C9898 = B9A045B81393D50F004C9898 /* PBXTextBookmark */;
+			B9A045B91393D50F004C9898 = B9A045B91393D50F004C9898 /* PBXTextBookmark */;
+			B9A045BA1393D50F004C9898 = B9A045BA1393D50F004C9898 /* PBXTextBookmark */;
+			B9A045BB1393D50F004C9898 = B9A045BB1393D50F004C9898 /* PBXTextBookmark */;
+			B9A045BD1393D50F004C9898 = B9A045BD1393D50F004C9898 /* PBXTextBookmark */;
+			B9A045EB1393EAEF004C9898 = B9A045EB1393EAEF004C9898 /* PBXTextBookmark */;
+			B9A0465413955095004C9898 = B9A0465413955095004C9898 /* PBXTextBookmark */;
+			B9A047021397076A004C9898 = B9A047021397076A004C9898 /* PBXTextBookmark */;
+			B9A0478C1397ED31004C9898 = B9A0478C1397ED31004C9898 /* PBXTextBookmark */;
+			B9A7355E13D0BAEA00107D82 = B9A7355E13D0BAEA00107D82 /* PBXTextBookmark */;
+			B9A7355F13D0BAEA00107D82 = B9A7355F13D0BAEA00107D82 /* PBXTextBookmark */;
+			B9A7363013D1713600107D82 = B9A7363013D1713600107D82 /* PBXTextBookmark */;
+			B9A7363513D17C7300107D82 = B9A7363513D17C7300107D82 /* PBXTextBookmark */;
+			B9A7377413D4A3C800107D82 = B9A7377413D4A3C800107D82 /* PBXTextBookmark */;
+			B9A7B9C5139BCBEE005B4E35 = B9A7B9C5139BCBEE005B4E35 /* PBXTextBookmark */;
+			B9A7B9C7139BCBEE005B4E35 = B9A7B9C7139BCBEE005B4E35 /* PBXTextBookmark */;
+			B9A7B9C8139BCBEE005B4E35 = B9A7B9C8139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9C9139BCBEE005B4E35 = B9A7B9C9139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CA139BCBEE005B4E35 = B9A7B9CA139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CB139BCBEE005B4E35 = B9A7B9CB139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CC139BCBEE005B4E35 = B9A7B9CC139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CD139BCBEE005B4E35 = B9A7B9CD139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CE139BCBEE005B4E35 = B9A7B9CE139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9CF139BCBEE005B4E35 = B9A7B9CF139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D0139BCBEE005B4E35 = B9A7B9D0139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D1139BCBEE005B4E35 = B9A7B9D1139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D2139BCBEE005B4E35 = B9A7B9D2139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D3139BCBEE005B4E35 = B9A7B9D3139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D4139BCBEE005B4E35 = B9A7B9D4139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D5139BCBEE005B4E35 = B9A7B9D5139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D6139BCBEE005B4E35 = B9A7B9D6139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D7139BCBEE005B4E35 = B9A7B9D7139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D8139BCBEE005B4E35 = B9A7B9D8139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9D9139BCBEE005B4E35 = B9A7B9D9139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DA139BCBEE005B4E35 = B9A7B9DA139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DB139BCBEE005B4E35 = B9A7B9DB139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DC139BCBEE005B4E35 = B9A7B9DC139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DD139BCBEE005B4E35 = B9A7B9DD139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DE139BCBEE005B4E35 = B9A7B9DE139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9DF139BCBEE005B4E35 = B9A7B9DF139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E0139BCBEE005B4E35 = B9A7B9E0139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E1139BCBEE005B4E35 = B9A7B9E1139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E2139BCBEE005B4E35 = B9A7B9E2139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E3139BCBEE005B4E35 = B9A7B9E3139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E4139BCBEE005B4E35 = B9A7B9E4139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E5139BCBEE005B4E35 = B9A7B9E5139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E6139BCBEE005B4E35 = B9A7B9E6139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E7139BCBEE005B4E35 = B9A7B9E7139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E8139BCBEE005B4E35 = B9A7B9E8139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9E9139BCBEE005B4E35 = B9A7B9E9139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9EA139BCBEE005B4E35 = B9A7B9EA139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9EB139BCBEE005B4E35 = B9A7B9EB139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9EC139BCBEE005B4E35 = B9A7B9EC139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9ED139BCBEE005B4E35 = B9A7B9ED139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9EE139BCBEE005B4E35 = B9A7B9EE139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9EF139BCBEE005B4E35 = B9A7B9EF139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9F0139BCBEE005B4E35 = B9A7B9F0139BCBEE005B4E35 /* PBXBookmark */;
+			B9A7B9F1139BCBEE005B4E35 = B9A7B9F1139BCBEE005B4E35 /* PBXTextBookmark */;
+			B9AF72FC13AFCC580051CCDB = B9AF72FC13AFCC580051CCDB /* PBXTextBookmark */;
+			B9B396D9136D3CC1005B41FA = B9B396D9136D3CC1005B41FA /* PlistBookmark */;
+			B9B6409413C7558400F3F549 = B9B6409413C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409613C7558400F3F549 = B9B6409613C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409713C7558400F3F549 = B9B6409713C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409913C7558400F3F549 = B9B6409913C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409B13C7558400F3F549 = B9B6409B13C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409C13C7558400F3F549 = B9B6409C13C7558400F3F549 /* PBXTextBookmark */;
+			B9B6409D13C7558400F3F549 = B9B6409D13C7558400F3F549 /* PBXTextBookmark */;
+			B9B640CF13C78EF600F3F549 = B9B640CF13C78EF600F3F549 /* PBXTextBookmark */;
+			B9B6415713CC558000F3F549 = B9B6415713CC558000F3F549 /* PBXTextBookmark */;
+			B9B6415813CC558000F3F549 = B9B6415813CC558000F3F549 /* PBXTextBookmark */;
+			B9BC046C13C084F20038FD30 = B9BC046C13C084F20038FD30 /* PBXTextBookmark */;
+			B9BC046D13C084F20038FD30 = B9BC046D13C084F20038FD30 /* PBXTextBookmark */;
+			B9BDD85E1375D272001591E8 = B9BDD85E1375D272001591E8 /* PBXTextBookmark */;
+			B9BDD8981375E791001591E8 = B9BDD8981375E791001591E8 /* PBXTextBookmark */;
+			B9BDDAAE137AF474001591E8 = B9BDDAAE137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDAB0137AF474001591E8 = B9BDDAB0137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDAB1137AF474001591E8 = B9BDDAB1137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDAB2137AF474001591E8 = B9BDDAB2137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDAB3137AF474001591E8 = B9BDDAB3137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDAB8137AF474001591E8 = B9BDDAB8137AF474001591E8 /* PBXTextBookmark */;
+			B9BDDABE137AF474001591E8 = B9BDDABE137AF474001591E8 /* PBXTextBookmark */;
+			B9C125C6137491C300C00CCA = B9C125C6137491C300C00CCA /* PBXTextBookmark */;
+			B9D8174F138BCCAC00202A8D = B9D8174F138BCCAC00202A8D /* PBXTextBookmark */;
+			B9D8176B138BEFCB00202A8D = B9D8176B138BEFCB00202A8D /* PBXTextBookmark */;
+			B9F260ED13D8C299007EE12C = B9F260ED13D8C299007EE12C /* PBXTextBookmark */;
+			B9F260EE13D8C299007EE12C = B9F260EE13D8C299007EE12C /* PBXTextBookmark */;
+			B9F47A19137B089100E3DACE = B9F47A19137B089100E3DACE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B9CE64921356FA8E00BD1250 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* ROR_Bible-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B900B2CA138AAF1900844F48 /* Autocomplete.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 524}}";
+			sepNavSelRange = "{416, 0}";
+			sepNavVisRange = "{0, 416}";
+		};
+	};
+	B900B2CB138AAF1900844F48 /* Autocomplete.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 2431}}";
+			sepNavSelRange = "{3300, 0}";
+			sepNavVisRange = "{1516, 578}";
+		};
+	};
+	B900B328138AE78A00844F48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B3C1357020B00AEE56A /* PredictSearchViewController.h */;
+		name = "PredictSearchViewController.h: 14";
+		rLen = 35;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	B9025FF813B87CDF00047155 /* ReferencesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 572}}";
+			sepNavSelRange = "{740, 0}";
+			sepNavVisRange = "{0, 1068}";
+		};
+	};
+	B9025FF913B87CDF00047155 /* ReferencesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2249}}";
+			sepNavSelRange = "{913, 0}";
+			sepNavVisRange = "{636, 1772}";
+		};
+	};
+	B902603D13B8AE2600047155 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B4E1357020B00AEE56A /* ChaptersViewController.h */;
+		name = "ChaptersViewController.h: 23";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 542;
+		vrLoc = 0;
+	};
+	B902609713B8ED7C00047155 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B451357020B00AEE56A /* MyNotesViewController.m */;
+		name = "MyNotesViewController.m: 39";
+		rLen = 345;
+		rLoc = 760;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 611;
+	};
+	B91214351410EBEA00C54C5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D5013FFD233000829FC /* 1 PeterRef.htm */;
+		name = "1 PeterRef.htm: 4";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 7477;
+		vrLoc = 0;
+	};
+	B912144214126FE800C54C5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9025FF913B87CDF00047155 /* ReferencesViewController.m */;
+		name = "ReferencesViewController.m: 30";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 636;
+	};
+	B912144314126FE800C54C5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ROR_BibleAppDelegate.m */;
+		name = "ROR_BibleAppDelegate.m: 77";
+		rLen = 0;
+		rLoc = 2697;
+		rType = 0;
+		vrLen = 1966;
+		vrLoc = 569;
+	};
+	B912144414126FE800C54C5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B551357020B00AEE56A /* LibraryViewController.m */;
+		name = "LibraryViewController.m: 206";
+		rLen = 0;
+		rLoc = 6023;
+		rType = 0;
+		vrLen = 1264;
+		vrLoc = 5412;
+	};
+	B915FC791418BECE0017FD46 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A15D5B136D76560022DA45 /* ChaptersforPredictSearchViewController.m */;
+		name = "ChaptersforPredictSearchViewController.m: 217";
+		rLen = 0;
+		rLoc = 6910;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 6231;
+	};
+	B9305F7B13B0A9D800BE50D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A047481397BF39004C9898 /* FontOptionsViewController.m */;
+		name = "FontOptionsViewController.m: 148";
+		rLen = 0;
+		rLoc = 4077;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 1990;
+	};
+	B9305FD013B209E200BE50D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8A9139A6125005B4E35 /* Dare To Believe God's Word.htm */;
+		name = "Dare To Believe God's Word.htm: 7";
+		rLen = 8;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 0;
+	};
+	B9305FD113B209E200BE50D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B89F139A6125005B4E35 /* All Things Have Become New!.htm */;
+		name = "All Things Have Become New!.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1164;
+		vrLoc = 0;
+	};
+	B94904C6141687F900D0CC27 /* UserDataManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 1209}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{604, 1329}";
+		};
+	};
+	B94904CB1416882D00D0CC27 /* MenuWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 518}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	B94904CC1416882D00D0CC27 /* MenuWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 2184}}";
+			sepNavSelRange = "{412, 0}";
+			sepNavVisRange = "{257, 847}";
+		};
+	};
+	B9490503141698E100D0CC27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ROR_BibleAppDelegate.h */;
+		name = "ROR_BibleAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 738;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 0;
+	};
+	B95121341361AB4C008B0919 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C521357035B00AEE56A /* Personal_word.htm */;
+		name = "Personal_word.htm: 17";
+		rLen = 0;
+		rLoc = 587;
+		rType = 0;
+		vrLen = 1917;
+		vrLoc = 0;
+	};
+	B956FBB8141778040079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B94904C6141687F900D0CC27 /* UserDataManager.m */;
+		name = "UserDataManager.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 604;
+	};
+	B956FBBA141778040079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ROR_BibleViewController.h */;
+		name = "ROR_BibleViewController.h: 176";
+		rLen = 0;
+		rLoc = 5989;
+		rType = 0;
+		vrLen = 1610;
+		vrLoc = 4932;
+	};
+	B956FBC914177C390079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97EBC7E13D9F68000497C10 /* TheWebView.m */;
+		name = "TheWebView.m: 58";
+		rLen = 0;
+		rLoc = 1619;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 419;
+	};
+	B956FBCA14177C390079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B94904CB1416882D00D0CC27 /* MenuWebView.h */;
+		name = "MenuWebView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	B956FBD514177E020079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ROR_BibleViewController.m */;
+		name = "ROR_BibleViewController.m: 36";
+		rLen = 0;
+		rLoc = 1318;
+		rType = 0;
+		vrLen = 1458;
+		vrLoc = 1102;
+	};
+	B956FBD814177E6D0079E328 /* SearchSelection.js */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 949}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 1158}";
+		};
+	};
+	B956FC09141787DC0079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B94904CC1416882D00D0CC27 /* MenuWebView.m */;
+		name = "MenuWebView.m: 24";
+		rLen = 0;
+		rLoc = 412;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 257;
+	};
+	B956FC0A141787DC0079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B956FBD814177E6D0079E328 /* SearchSelection.js */;
+		name = "SearchSelection.js: 8";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 0;
+	};
+	B956FC0B141787DC0079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No '-updateTable:' method found";
+		fRef = B9A15D5B136D76560022DA45 /* ChaptersforPredictSearchViewController.m */;
+		rLen = 1;
+		rLoc = 216;
+		rType = 1;
+	};
+	B956FC361417A9270079E328 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A15D5B136D76560022DA45 /* ChaptersforPredictSearchViewController.m */;
+		name = "ChaptersforPredictSearchViewController.m: 217";
+		rLen = 0;
+		rLoc = 6910;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 6109;
+	};
+	B965C87C137487AE0049CBD1 /* OneYearStudyPlan.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 26611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1355}";
+		};
+	};
+	B965C87E137487C40049CBD1 /* TwoYearStudyPlan.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 52065}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1419}";
+		};
+	};
+	B965C880137487DB0049CBD1 /* interface.css */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1300}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 814}";
+		};
+	};
+	B965C8D513748C030049CBD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B965C880137487DB0049CBD1 /* interface.css */;
+		name = "interface.css: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	B965C8D713748C030049CBD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B965C87E137487C40049CBD1 /* TwoYearStudyPlan.htm */;
+		name = "TwoYearStudyPlan.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1419;
+		vrLoc = 0;
+	};
+	B9685CC413FFCE03000829FC /* 1 ChroniclesBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5787, 12818}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 6848}";
+		};
+	};
+	B9685CC513FFCE03000829FC /* 1 CorinthiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5010, 6370}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRange = "{132418, 9091}";
+		};
+	};
+	B9685CC613FFCE03000829FC /* 1 JohnBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4485, 1625}}";
+			sepNavSelRange = "{418, 0}";
+			sepNavVisRange = "{24514, 11096}";
+		};
+	};
+	B9685CC713FFCE03000829FC /* 1 KingsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5038, 11219}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{262424, 12766}";
+		};
+	};
+	B9685CC813FFCE03000829FC /* 1 PeterBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4716, 1690}}";
+			sepNavSelRange = "{38378, 0}";
+			sepNavVisRange = "{30285, 11338}";
+		};
+	};
+	B9685CC913FFCE03000829FC /* 1 SamuelBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5437, 11258}}";
+			sepNavSelRange = "{433, 0}";
+			sepNavVisRange = "{273231, 14057}";
+		};
+	};
+	B9685CCA13FFCE03000829FC /* 1 ThessaloniansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4324, 1417}}";
+			sepNavSelRange = "{47, 0}";
+			sepNavVisRange = "{21083, 11880}";
+		};
+	};
+	B9685CCB13FFCE03000829FC /* 1 TimothyBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5437, 1885}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{30512, 9739}";
+		};
+	};
+	B9685CCC13FFCE03000829FC /* 2 ChroniclesBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5297, 11882}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{139421, 11728}";
+		};
+	};
+	B9685CCD13FFCE03000829FC /* 2 CorinthiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4065, 3874}}";
+			sepNavSelRange = "{48718, 0}";
+			sepNavVisRange = "{73738, 12060}";
+		};
+	};
+	B9685CCE13FFCE03000829FC /* 2 JohnBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3281, 504}}";
+			sepNavSelRange = "{15, 0}";
+			sepNavVisRange = "{0, 4928}";
+		};
+	};
+	B9685CCF13FFCE03000829FC /* 2 KingsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5066, 9997}}";
+			sepNavSelRange = "{432, 0}";
+			sepNavVisRange = "{235612, 15473}";
+		};
+	};
+	B9685CD013FFCE03000829FC /* 2 PeterBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4982, 1027}}";
+			sepNavSelRange = "{419, 0}";
+			sepNavVisRange = "{9547, 13315}";
+		};
+	};
+	B9685CD113FFCE03000829FC /* 2 SamuelBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4555, 9542}}";
+			sepNavSelRange = "{433, 0}";
+			sepNavVisRange = "{0, 9868}";
+		};
+	};
+	B9685CD213FFCE03000829FC /* 2 ThessaloniansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4247, 975}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{16, 9882}";
+		};
+	};
+	B9685CD313FFCE03000829FC /* 2 TimothyBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4863, 1326}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{18570, 11894}";
+		};
+	};
+	B9685CD413FFCE03000829FC /* 3 JohnBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2749, 504}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{0, 4434}";
+		};
+	};
+	B9685CD513FFCE03000829FC /* ActsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5472, 13962}}";
+			sepNavSelRange = "{110580, 0}";
+			sepNavVisRange = "{303157, 10935}";
+		};
+	};
+	B9685CD613FFCE03000829FC /* AmosBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4709, 2210}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{38907, 14905}";
+		};
+	};
+	B9685CEA13FFD0BC000829FC /* ColossiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4646, 1651}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{23814, 13030}";
+		};
+	};
+	B9685CEB13FFD0BC000829FC /* DanielBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {6256, 5122}}";
+			sepNavSelRange = "{62380, 0}";
+			sepNavVisRange = "{121584, 15845}";
+		};
+	};
+	B9685CEC13FFD0BC000829FC /* DeuteronomyBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5514, 13312}}";
+			sepNavSelRange = "{234189, 0}";
+			sepNavVisRange = "{342647, 16334}";
+		};
+	};
+	B9685CED13FFD0BC000829FC /* EcclesiastesBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3918, 3354}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{58340, 12610}";
+		};
+	};
+	B9685CEE13FFD0BC000829FC /* EphesiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4702, 2535}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{47266, 9757}";
+		};
+	};
+	B9685CEF13FFD0BC000829FC /* EstherBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5325, 2769}}";
+			sepNavSelRange = "{56087, 0}";
+			sepNavVisRange = "{23334, 10509}";
+		};
+	};
+	B9685CF013FFD0BC000829FC /* ExodusBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5437, 16913}}";
+			sepNavSelRange = "{48333, 19}";
+			sepNavVisRange = "{40682, 10467}";
+		};
+	};
+	B9685CF113FFD0BC000829FC /* EzekielBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5745, 17511}}";
+			sepNavSelRange = "{14005, 0}";
+			sepNavVisRange = "{201471, 14819}";
+		};
+	};
+	B9685CF213FFD0BC000829FC /* EzraBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5276, 4004}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{66749, 13614}";
+		};
+	};
+	B9685CF313FFD0BC000829FC /* GalatiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4324, 2210}}";
+			sepNavSelRange = "{87, 0}";
+			sepNavVisRange = "{37534, 12173}";
+		};
+	};
+	B9685CF413FFD0BC000829FC /* GenesisBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4499, 21138}}";
+			sepNavSelRange = "{105752, 0}";
+			sepNavVisRange = "{97273, 10293}";
+		};
+	};
+	B9685CF513FFD0BC000829FC /* HabakkukBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3610, 962}}";
+			sepNavSelRange = "{507, 0}";
+			sepNavVisRange = "{5887, 13696}";
+		};
+	};
+	B9685CF613FFD0BC000829FC /* HaggaiBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4562, 715}}";
+			sepNavSelRange = "{12765, 0}";
+			sepNavVisRange = "{494, 13470}";
+		};
+	};
+	B9685CF713FFD0BC000829FC /* HebrewsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5094, 4771}}";
+			sepNavSelRange = "{94141, 19}";
+			sepNavVisRange = "{92212, 8819}";
+		};
+	};
+	B9685CF813FFD0BC000829FC /* HoseaBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5500, 2938}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{60107, 14752}";
+		};
+	};
+	B9685D0813FFD0DB000829FC /* IsaiahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4604, 18044}}";
+			sepNavSelRange = "{455159, 0}";
+			sepNavVisRange = "{446959, 12031}";
+		};
+	};
+	B9685D0913FFD0DB000829FC /* JamesBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3981, 1807}}";
+			sepNavSelRange = "{417, 0}";
+			sepNavVisRange = "{22485, 11881}";
+		};
+	};
+	B9685D0A13FFD0DB000829FC /* JeremiahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5647, 18720}}";
+			sepNavSelRange = "{274024, 0}";
+			sepNavVisRange = "{499168, 13396}";
+		};
+	};
+	B9685D0B13FFD0DB000829FC /* JobBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4653, 14807}}";
+			sepNavSelRange = "{509, 8}";
+			sepNavVisRange = "{255052, 9725}";
+		};
+	};
+	B9685D0C13FFD0DB000829FC /* JoelBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4723, 1300}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 10522}";
+		};
+	};
+	B9685D0D13FFD0DB000829FC /* JohnBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4289, 12025}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{244957, 11001}";
+		};
+	};
+	B9685D0E13FFD0DB000829FC /* JonahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3981, 871}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{4291, 11974}";
+		};
+	};
+	B9685D0F13FFD0DB000829FC /* JoshuaBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5325, 9178}}";
+			sepNavSelRange = "{45740, 0}";
+			sepNavVisRange = "{208386, 16899}";
+		};
+	};
+	B9685D1013FFD0DB000829FC /* JudeBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4905, 689}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRange = "{584, 10580}";
+		};
+	};
+	B9685D1113FFD0DB000829FC /* JudgesBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4828, 8632}}";
+			sepNavSelRange = "{431, 0}";
+			sepNavVisRange = "{199460, 12541}";
+		};
+	};
+	B9685D1213FFD0DB000829FC /* LamentationsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4688, 2262}}";
+			sepNavSelRange = "{516, 0}";
+			sepNavVisRange = "{0, 13470}";
+		};
+	};
+	B9685D1313FFD0DB000829FC /* LeviticusBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4534, 11791}}";
+			sepNavSelRange = "{168248, 0}";
+			sepNavVisRange = "{278997, 13442}";
+		};
+	};
+	B9685D1413FFD0DB000829FC /* LukeBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4415, 15756}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{313890, 10445}";
+		};
+	};
+	B9685D1513FFD0DB000829FC /* MalachiBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5192, 1066}}";
+			sepNavSelRange = "{22936, 0}";
+			sepNavVisRange = "{9167, 14141}";
+		};
+	};
+	B9685D1613FFD0DB000829FC /* MarkBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3722, 9217}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 7950}";
+		};
+	};
+	B9685D1713FFD0DB000829FC /* MatthewBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4443, 14729}}";
+			sepNavSelRange = "{157809, 0}";
+			sepNavVisRange = "{306027, 9838}";
+		};
+	};
+	B9685D1813FFD0DB000829FC /* MicahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4793, 1833}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{0, 8861}";
+		};
+	};
+	B9685D1913FFD0DB000829FC /* NahumBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3925, 845}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{3677, 14143}";
+		};
+	};
+	B9685D1A13FFD0DB000829FC /* NehemiahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5388, 5642}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{115195, 15457}";
+		};
+	};
+	B9685D1B13FFD0DB000829FC /* NumbersBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5213, 17511}}";
+			sepNavSelRange = "{423, 0}";
+			sepNavVisRange = "{393840, 13431}";
+		};
+	};
+	B9685D1C13FFD0DB000829FC /* ObadiahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4527, 552}}";
+			sepNavSelRange = "{423, 0}";
+			sepNavVisRange = "{0, 9009}";
+		};
+	};
+	B9685D1D13FFD0DB000829FC /* PhilemonBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 533}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 7892}";
+		};
+	};
+	B9685D1E13FFD0DB000829FC /* PhilippiansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4478, 1599}}";
+			sepNavSelRange = "{439, 0}";
+			sepNavVisRange = "{23172, 12414}";
+		};
+	};
+	B9685D3613FFD0FB000829FC /* ProverbsBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3561, 12883}}";
+			sepNavSelRange = "{242578, 0}";
+			sepNavVisRange = "{241346, 7742}";
+		};
+	};
+	B9685D3713FFD0FB000829FC /* PsalmBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3596, 35165}}";
+			sepNavSelRange = "{605504, 0}";
+			sepNavVisRange = "{702590, 10300}";
+		};
+	};
+	B9685D3813FFD0FB000829FC /* RevelationBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {6592, 5850}}";
+			sepNavSelRange = "{87383, 0}";
+			sepNavVisRange = "{0, 12304}";
+		};
+	};
+	B9685D3913FFD0FB000829FC /* RomansBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5458, 6461}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{128480, 10917}";
+		};
+	};
+	B9685D3A13FFD0FB000829FC /* RuthBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4359, 1352}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{15761, 13135}";
+		};
+	};
+	B9685D3C13FFD0FB000829FC /* TitusBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3722, 949}}";
+			sepNavSelRange = "{433, 0}";
+			sepNavVisRange = "{5737, 11799}";
+		};
+	};
+	B9685D3D13FFD0FB000829FC /* ZechariahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5759, 3120}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRange = "{65173, 16186}";
+		};
+	};
+	B9685D3E13FFD0FB000829FC /* ZephaniahBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5003, 1053}}";
+			sepNavSelRange = "{15015, 0}";
+			sepNavVisRange = "{5961, 16940}";
+		};
+	};
+	B9685D4A13FFD1C4000829FC /* Song of SolomonBookxmltrans.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3848, 1820}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{22913, 11268}";
+		};
+	};
+	B9685D4D13FFD233000829FC /* 1 CorinthiansRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2931, 6396}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRange = "{0, 6613}";
+		};
+	};
+	B9685D5013FFD233000829FC /* 1 PeterRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2945, 2795}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{0, 7477}";
+		};
+	};
+	B9685D5613FFD233000829FC /* 2 JohnRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2581, 552}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{0, 3425}";
+		};
+	};
+	B9685D5C13FFD233000829FC /* 3 JohnRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1482, 552}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{0, 1751}";
+		};
+	};
+	B9685D5E13FFD233000829FC /* AmosRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3078, 3081}}";
+			sepNavSelRange = "{2687, 0}";
+			sepNavVisRange = "{276, 7195}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B9685D6013FFD233000829FC /* DanielRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2868, 6175}}";
+			sepNavSelRange = "{80470, 0}";
+			sepNavVisRange = "{0, 7085}";
+		};
+	};
+	B9685D6213FFD233000829FC /* EcclesiastesRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2203, 2743}}";
+			sepNavSelRange = "{34301, 0}";
+			sepNavVisRange = "{0, 6083}";
+		};
+	};
+	B9685D6413FFD233000829FC /* EstherRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2140, 2158}}";
+			sepNavSelRange = "{23775, 0}";
+			sepNavVisRange = "{0, 5565}";
+		};
+	};
+	B9685D6513FFD233000829FC /* ExodusRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3799, 16380}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 7933}";
+		};
+	};
+	B9685D6713FFD233000829FC /* EzraRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2077, 2886}}";
+			sepNavSelRange = "{30867, 0}";
+			sepNavVisRange = "{0, 5486}";
+		};
+	};
+	B9685D6913FFD233000829FC /* GenesisRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4534, 19526}}";
+			sepNavSelRange = "{79, 196}";
+			sepNavVisRange = "{166, 8004}";
+		};
+	};
+	B9685D6A13FFD233000829FC /* HabakkukRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2483, 884}}";
+			sepNavSelRange = "{7327, 0}";
+			sepNavVisRange = "{0, 6313}";
+		};
+	};
+	B9685D6B13FFD233000829FC /* HaggaiRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2476, 819}}";
+			sepNavSelRange = "{4301, 0}";
+			sepNavVisRange = "{0, 5114}";
+		};
+	};
+	B9685D6D13FFD233000829FC /* HoseaRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2441, 4849}}";
+			sepNavSelRange = "{60334, 0}";
+			sepNavVisRange = "{0, 5852}";
+		};
+	};
+	B9685D7213FFD233000829FC /* JoelRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2833, 1976}}";
+			sepNavSelRange = "{18825, 0}";
+			sepNavVisRange = "{0, 5726}";
+		};
+	};
+	B9685D7413FFD234000829FC /* JonahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2476, 793}}";
+			sepNavSelRange = "{8102, 0}";
+			sepNavVisRange = "{0, 6156}";
+		};
+	};
+	B9685D7613FFD234000829FC /* JudeRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2581, 780}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{0, 5558}";
+		};
+	};
+	B9685D7813FFD234000829FC /* LamentationsRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2980, 2899}}";
+			sepNavSelRange = "{34464, 0}";
+			sepNavVisRange = "{0, 6555}";
+		};
+	};
+	B9685D7913FFD234000829FC /* LeviticusRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4065, 11063}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 8108}";
+		};
+	};
+	B9685D7B13FFD234000829FC /* MalachiRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2980, 1482}}";
+			sepNavSelRange = "{15063, 0}";
+			sepNavVisRange = "{0, 5995}";
+		};
+	};
+	B9685D7C13FFD234000829FC /* MarkRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2448, 5655}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRange = "{0, 6691}";
+		};
+	};
+	B9685D7E13FFD234000829FC /* MicahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2791, 2548}}";
+			sepNavSelRange = "{25634, 0}";
+			sepNavVisRange = "{0, 5678}";
+		};
+	};
+	B9685D8013FFD234000829FC /* NehemiahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2462, 4914}}";
+			sepNavSelRange = "{54496, 0}";
+			sepNavVisRange = "{0, 5330}";
+		};
+	};
+	B9685D8213FFD234000829FC /* ObadiahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2952, 585}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{0, 6002}";
+		};
+	};
+	B9685D8913FFD234000829FC /* RuthRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2056, 1222}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRange = "{0, 6125}";
+		};
+	};
+	B9685D8C13FFD234000829FC /* ZechariahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3358, 4420}}";
+			sepNavSelRange = "{53976, 0}";
+			sepNavVisRange = "{0, 6199}";
+		};
+	};
+	B9685D8D13FFD234000829FC /* ZephaniahRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2896, 1872}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 5023}";
+		};
+	};
+	B9685DD013FFD2CB000829FC /* SOSRef.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1916, 1222}}";
+			sepNavSelRange = "{11676, 0}";
+			sepNavVisRange = "{0, 5283}";
+		};
+	};
+	B9685DE213FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C391357035A00AEE56A /* A-Concordance.html */;
+		name = "A-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3860;
+		vrLoc = 0;
+	};
+	B9685E2313FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B914139A6126005B4E35 /* Your Set Time To Walk In Victory.htm */;
+		name = "Your Set Time To Walk In Victory.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1642;
+		vrLoc = 0;
+	};
+	B9685E2613FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6513FFD233000829FC /* ExodusRef.htm */;
+		name = "ExodusRef.htm: 5";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 7933;
+		vrLoc = 0;
+	};
+	B9685E2713FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7913FFD234000829FC /* LeviticusRef.htm */;
+		name = "LeviticusRef.htm: 5";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 8108;
+		vrLoc = 0;
+	};
+	B9685E2913FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D5613FFD233000829FC /* 2 JohnRef.htm */;
+		name = "2 JohnRef.htm: 5";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 3425;
+		vrLoc = 0;
+	};
+	B9685E2B13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D8C13FFD234000829FC /* ZechariahRef.htm */;
+		name = "ZechariahRef.htm: 299";
+		rLen = 0;
+		rLoc = 53976;
+		rType = 0;
+		vrLen = 6199;
+		vrLoc = 0;
+	};
+	B9685E2C13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685DD013FFD2CB000829FC /* SOSRef.htm */;
+		name = "SOSRef.htm: 83";
+		rLen = 0;
+		rLoc = 11676;
+		rType = 0;
+		vrLen = 5283;
+		vrLoc = 0;
+	};
+	B9685E2D13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D8913FFD234000829FC /* RuthRef.htm */;
+		name = "RuthRef.htm: 5";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 6125;
+		vrLoc = 0;
+	};
+	B9685E2E13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D8213FFD234000829FC /* ObadiahRef.htm */;
+		name = "ObadiahRef.htm: 7";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 6002;
+		vrLoc = 0;
+	};
+	B9685E2F13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D8013FFD234000829FC /* NehemiahRef.htm */;
+		name = "NehemiahRef.htm: 322";
+		rLen = 0;
+		rLoc = 54496;
+		rType = 0;
+		vrLen = 5330;
+		vrLoc = 0;
+	};
+	B9685E3013FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7E13FFD234000829FC /* MicahRef.htm */;
+		name = "MicahRef.htm: 149";
+		rLen = 0;
+		rLoc = 25634;
+		rType = 0;
+		vrLen = 5678;
+		vrLoc = 0;
+	};
+	B9685E3113FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7C13FFD234000829FC /* MarkRef.htm */;
+		name = "MarkRef.htm: 5";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 6691;
+		vrLoc = 0;
+	};
+	B9685E3213FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7B13FFD234000829FC /* MalachiRef.htm */;
+		name = "MalachiRef.htm: 90";
+		rLen = 0;
+		rLoc = 15063;
+		rType = 0;
+		vrLen = 5995;
+		vrLoc = 0;
+	};
+	B9685E3313FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7813FFD234000829FC /* LamentationsRef.htm */;
+		name = "LamentationsRef.htm: 196";
+		rLen = 0;
+		rLoc = 34464;
+		rType = 0;
+		vrLen = 6555;
+		vrLoc = 0;
+	};
+	B9685E3413FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7613FFD234000829FC /* JudeRef.htm */;
+		name = "JudeRef.htm: 7";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 5558;
+		vrLoc = 0;
+	};
+	B9685E3513FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7413FFD234000829FC /* JonahRef.htm */;
+		name = "JonahRef.htm: 51";
+		rLen = 0;
+		rLoc = 8102;
+		rType = 0;
+		vrLen = 6156;
+		vrLoc = 0;
+	};
+	B9685E3613FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D7213FFD233000829FC /* JoelRef.htm */;
+		name = "JoelRef.htm: 104";
+		rLen = 0;
+		rLoc = 18825;
+		rType = 0;
+		vrLen = 5726;
+		vrLoc = 0;
+	};
+	B9685E3713FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6D13FFD233000829FC /* HoseaRef.htm */;
+		name = "HoseaRef.htm: 350";
+		rLen = 0;
+		rLoc = 60334;
+		rType = 0;
+		vrLen = 5852;
+		vrLoc = 0;
+	};
+	B9685E3813FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6B13FFD233000829FC /* HaggaiRef.htm */;
+		name = "HaggaiRef.htm: 34";
+		rLen = 0;
+		rLoc = 4301;
+		rType = 0;
+		vrLen = 5114;
+		vrLoc = 0;
+	};
+	B9685E3913FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6A13FFD233000829FC /* HabakkukRef.htm */;
+		name = "HabakkukRef.htm: 46";
+		rLen = 0;
+		rLoc = 7327;
+		rType = 0;
+		vrLen = 6313;
+		vrLoc = 0;
+	};
+	B9685E3A13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6713FFD233000829FC /* EzraRef.htm */;
+		name = "EzraRef.htm: 196";
+		rLen = 0;
+		rLoc = 30867;
+		rType = 0;
+		vrLen = 5486;
+		vrLoc = 0;
+	};
+	B9685E3B13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6413FFD233000829FC /* EstherRef.htm */;
+		name = "EstherRef.htm: 156";
+		rLen = 0;
+		rLoc = 23775;
+		rType = 0;
+		vrLen = 5565;
+		vrLoc = 0;
+	};
+	B9685E3C13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6213FFD233000829FC /* EcclesiastesRef.htm */;
+		name = "EcclesiastesRef.htm: 188";
+		rLen = 0;
+		rLoc = 34301;
+		rType = 0;
+		vrLen = 6083;
+		vrLoc = 0;
+	};
+	B9685E3D13FFF9B1000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6013FFD233000829FC /* DanielRef.htm */;
+		name = "DanielRef.htm: 442";
+		rLen = 0;
+		rLoc = 80470;
+		rType = 0;
+		vrLen = 7085;
+		vrLoc = 0;
+	};
+	B9685E52140243AE000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D8D13FFD234000829FC /* ZephaniahRef.htm */;
+		name = "ZephaniahRef.htm: 8";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 5023;
+		vrLoc = 0;
+	};
+	B9685E53140243AE000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D6913FFD233000829FC /* GenesisRef.htm */;
+		name = "GenesisRef.htm: 2";
+		rLen = 196;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 8004;
+		vrLoc = 166;
+	};
+	B9685E54140243AE000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A736F013D1C2CE00107D82 /* ReferenceViewController2.m */;
+		name = "ReferenceViewController2.m: 13";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 1425;
+	};
+	B9685E57140243AE000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9025FF813B87CDF00047155 /* ReferencesViewController.h */;
+		name = "ReferencesViewController.h: 32";
+		rLen = 0;
+		rLoc = 740;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	B9685E59140243AE000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D5C13FFD233000829FC /* 3 JohnRef.htm */;
+		name = "3 JohnRef.htm: 5";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 1751;
+		vrLoc = 0;
+	};
+	B9685E5E14024643000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D5E13FFD233000829FC /* AmosRef.htm */;
+		name = "AmosRef.htm: 22";
+		rLen = 0;
+		rLoc = 2687;
+		rType = 0;
+		vrLen = 7195;
+		vrLoc = 276;
+	};
+	B9685E5F14024643000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF013FFD0BC000829FC /* ExodusBookxmltrans.htm */;
+		name = "ExodusBookxmltrans.htm: 167";
+		rLen = 19;
+		rLoc = 48333;
+		rType = 0;
+		vrLen = 10467;
+		vrLoc = 40682;
+	};
+	B9685E621402570E000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF413FFD0BC000829FC /* GenesisBookxmltrans.htm */;
+		name = "GenesisBookxmltrans.htm: 391";
+		rLen = 0;
+		rLoc = 105752;
+		rType = 0;
+		vrLen = 10293;
+		vrLoc = 97273;
+	};
+	B9685E631402570E000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1313FFD0DB000829FC /* LeviticusBookxmltrans.htm */;
+		name = "LeviticusBookxmltrans.htm: 537";
+		rLen = 0;
+		rLoc = 168248;
+		rType = 0;
+		vrLen = 13442;
+		vrLoc = 278997;
+	};
+	B9685E641402570E000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1B13FFD0DB000829FC /* NumbersBookxmltrans.htm */;
+		name = "NumbersBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 13431;
+		vrLoc = 393840;
+	};
+	B9685E6614026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CEC13FFD0BC000829FC /* DeuteronomyBookxmltrans.htm */;
+		name = "DeuteronomyBookxmltrans.htm: 674";
+		rLen = 0;
+		rLoc = 234189;
+		rType = 0;
+		vrLen = 16334;
+		vrLoc = 342647;
+	};
+	B9685E6714026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0F13FFD0DB000829FC /* JoshuaBookxmltrans.htm */;
+		name = "JoshuaBookxmltrans.htm: 147";
+		rLen = 0;
+		rLoc = 45740;
+		rType = 0;
+		vrLen = 16899;
+		vrLoc = 208386;
+	};
+	B9685E6814026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1113FFD0DB000829FC /* JudgesBookxmltrans.htm */;
+		name = "JudgesBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 12541;
+		vrLoc = 199460;
+	};
+	B9685E6914026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3A13FFD0FB000829FC /* RuthBookxmltrans.htm */;
+		name = "RuthBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 13135;
+		vrLoc = 15761;
+	};
+	B9685E6A14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC913FFCE03000829FC /* 1 SamuelBookxmltrans.htm */;
+		name = "1 SamuelBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 433;
+		rType = 0;
+		vrLen = 14057;
+		vrLoc = 273231;
+	};
+	B9685E6B14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD113FFCE03000829FC /* 2 SamuelBookxmltrans.htm */;
+		name = "2 SamuelBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 433;
+		rType = 0;
+		vrLen = 9868;
+		vrLoc = 0;
+	};
+	B9685E6C14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC713FFCE03000829FC /* 1 KingsBookxmltrans.htm */;
+		name = "1 KingsBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 12766;
+		vrLoc = 262424;
+	};
+	B9685E6D14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCF13FFCE03000829FC /* 2 KingsBookxmltrans.htm */;
+		name = "2 KingsBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 432;
+		rType = 0;
+		vrLen = 15473;
+		vrLoc = 235612;
+	};
+	B9685E6E14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC413FFCE03000829FC /* 1 ChroniclesBookxmltrans.htm */;
+		name = "1 ChroniclesBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6848;
+		vrLoc = 0;
+	};
+	B9685E6F14026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCC13FFCE03000829FC /* 2 ChroniclesBookxmltrans.htm */;
+		name = "2 ChroniclesBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 11728;
+		vrLoc = 139421;
+	};
+	B9685E7014026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF213FFD0BC000829FC /* EzraBookxmltrans.htm */;
+		name = "EzraBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 13614;
+		vrLoc = 66749;
+	};
+	B9685E7114026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1A13FFD0DB000829FC /* NehemiahBookxmltrans.htm */;
+		name = "NehemiahBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 15457;
+		vrLoc = 115195;
+	};
+	B9685E7214026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CEF13FFD0BC000829FC /* EstherBookxmltrans.htm */;
+		name = "EstherBookxmltrans.htm: 188";
+		rLen = 0;
+		rLoc = 56087;
+		rType = 0;
+		vrLen = 10509;
+		vrLoc = 23334;
+	};
+	B9685E7314026937000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0B13FFD0DB000829FC /* JobBookxmltrans.htm */;
+		name = "JobBookxmltrans.htm: 13";
+		rLen = 8;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 9725;
+		vrLoc = 255052;
+	};
+	B9685E7814026B35000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3713FFD0FB000829FC /* PsalmBookxmltrans.htm */;
+		name = "PsalmBookxmltrans.htm: 2242";
+		rLen = 0;
+		rLoc = 605504;
+		rType = 0;
+		vrLen = 10300;
+		vrLoc = 702590;
+	};
+	B9685E7C14026C70000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3613FFD0FB000829FC /* ProverbsBookxmltrans.htm */;
+		name = "ProverbsBookxmltrans.htm: 944";
+		rLen = 0;
+		rLoc = 242578;
+		rType = 0;
+		vrLen = 7742;
+		vrLoc = 241346;
+	};
+	B9685E7D14026C70000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CED13FFD0BC000829FC /* EcclesiastesBookxmltrans.htm */;
+		name = "EcclesiastesBookxmltrans.htm: 8";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 12610;
+		vrLoc = 58340;
+	};
+	B9685E7F14026C70000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D4A13FFD1C4000829FC /* Song of SolomonBookxmltrans.htm */;
+		name = "Song of SolomonBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 11268;
+		vrLoc = 22913;
+	};
+	B9685E82140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0813FFD0DB000829FC /* IsaiahBookxmltrans.htm */;
+		name = "IsaiahBookxmltrans.htm: 1372";
+		rLen = 0;
+		rLoc = 455159;
+		rType = 0;
+		vrLen = 12031;
+		vrLoc = 446959;
+	};
+	B9685E83140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0A13FFD0DB000829FC /* JeremiahBookxmltrans.htm */;
+		name = "JeremiahBookxmltrans.htm: 773";
+		rLen = 0;
+		rLoc = 274024;
+		rType = 0;
+		vrLen = 13396;
+		vrLoc = 499168;
+	};
+	B9685E84140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1213FFD0DB000829FC /* LamentationsBookxmltrans.htm */;
+		name = "LamentationsBookxmltrans.htm: 13";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 13470;
+		vrLoc = 0;
+	};
+	B9685E85140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF113FFD0BC000829FC /* EzekielBookxmltrans.htm */;
+		name = "EzekielBookxmltrans.htm: 50";
+		rLen = 0;
+		rLoc = 14005;
+		rType = 0;
+		vrLen = 14819;
+		vrLoc = 201471;
+	};
+	B9685E86140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CEB13FFD0BC000829FC /* DanielBookxmltrans.htm */;
+		name = "DanielBookxmltrans.htm: 191";
+		rLen = 0;
+		rLoc = 62380;
+		rType = 0;
+		vrLen = 15845;
+		vrLoc = 121584;
+	};
+	B9685E87140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF813FFD0BC000829FC /* HoseaBookxmltrans.htm */;
+		name = "HoseaBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 14752;
+		vrLoc = 60107;
+	};
+	B9685E88140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0C13FFD0DB000829FC /* JoelBookxmltrans.htm */;
+		name = "JoelBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 10522;
+		vrLoc = 0;
+	};
+	B9685E89140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD613FFCE03000829FC /* AmosBookxmltrans.htm */;
+		name = "AmosBookxmltrans.htm: 8";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 14905;
+		vrLoc = 38907;
+	};
+	B9685E8A140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1C13FFD0DB000829FC /* ObadiahBookxmltrans.htm */;
+		name = "ObadiahBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 9009;
+		vrLoc = 0;
+	};
+	B9685E8B140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0E13FFD0DB000829FC /* JonahBookxmltrans.htm */;
+		name = "JonahBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 11974;
+		vrLoc = 4291;
+	};
+	B9685E8C140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1813FFD0DB000829FC /* MicahBookxmltrans.htm */;
+		name = "MicahBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 8861;
+		vrLoc = 0;
+	};
+	B9685E8D140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1913FFD0DB000829FC /* NahumBookxmltrans.htm */;
+		name = "NahumBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 14143;
+		vrLoc = 3677;
+	};
+	B9685E8E140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF513FFD0BC000829FC /* HabakkukBookxmltrans.htm */;
+		name = "HabakkukBookxmltrans.htm: 13";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 13696;
+		vrLoc = 5887;
+	};
+	B9685E8F140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF613FFD0BC000829FC /* HaggaiBookxmltrans.htm */;
+		name = "HaggaiBookxmltrans.htm: 51";
+		rLen = 0;
+		rLoc = 12765;
+		rType = 0;
+		vrLen = 13470;
+		vrLoc = 494;
+	};
+	B9685E90140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3E13FFD0FB000829FC /* ZephaniahBookxmltrans.htm */;
+		name = "ZephaniahBookxmltrans.htm: 59";
+		rLen = 0;
+		rLoc = 15015;
+		rType = 0;
+		vrLen = 16940;
+		vrLoc = 5961;
+	};
+	B9685E91140270CA000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3D13FFD0FB000829FC /* ZechariahBookxmltrans.htm */;
+		name = "ZechariahBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 16186;
+		vrLoc = 65173;
+	};
+	B9685E9514027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1513FFD0DB000829FC /* MalachiBookxmltrans.htm */;
+		name = "MalachiBookxmltrans.htm: 73";
+		rLen = 0;
+		rLoc = 22936;
+		rType = 0;
+		vrLen = 14141;
+		vrLoc = 9167;
+	};
+	B9685E9614027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1713FFD0DB000829FC /* MatthewBookxmltrans.htm */;
+		name = "MatthewBookxmltrans.htm: 558";
+		rLen = 0;
+		rLoc = 157809;
+		rType = 0;
+		vrLen = 9838;
+		vrLoc = 306027;
+	};
+	B9685E9714027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1613FFD0DB000829FC /* MarkBookxmltrans.htm */;
+		name = "MarkBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 7950;
+		vrLoc = 0;
+	};
+	B9685E9814027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1413FFD0DB000829FC /* LukeBookxmltrans.htm */;
+		name = "LukeBookxmltrans.htm: 8";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 10445;
+		vrLoc = 313890;
+	};
+	B9685E9914027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0D13FFD0DB000829FC /* JohnBookxmltrans.htm */;
+		name = "JohnBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 11001;
+		vrLoc = 244957;
+	};
+	B9685E9A14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD513FFCE03000829FC /* ActsBookxmltrans.htm */;
+		name = "ActsBookxmltrans.htm: 383";
+		rLen = 0;
+		rLoc = 110580;
+		rType = 0;
+		vrLen = 10935;
+		vrLoc = 303157;
+	};
+	B9685E9B14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3913FFD0FB000829FC /* RomansBookxmltrans.htm */;
+		name = "RomansBookxmltrans.htm: 6";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 10917;
+		vrLoc = 128480;
+	};
+	B9685E9C14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D4D13FFD233000829FC /* 1 CorinthiansRef.htm */;
+		name = "1 CorinthiansRef.htm: 4";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 6613;
+		vrLoc = 0;
+	};
+	B9685E9D14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC513FFCE03000829FC /* 1 CorinthiansBookxmltrans.htm */;
+		name = "1 CorinthiansBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 9091;
+		vrLoc = 132418;
+	};
+	B9685E9E14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCD13FFCE03000829FC /* 2 CorinthiansBookxmltrans.htm */;
+		name = "2 CorinthiansBookxmltrans.htm: 181";
+		rLen = 0;
+		rLoc = 48718;
+		rType = 0;
+		vrLen = 12060;
+		vrLoc = 73738;
+	};
+	B9685E9F14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF313FFD0BC000829FC /* GalatiansBookxmltrans.htm */;
+		name = "GalatiansBookxmltrans.htm: 4";
+		rLen = 0;
+		rLoc = 87;
+		rType = 0;
+		vrLen = 12173;
+		vrLoc = 37534;
+	};
+	B9685EA014027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CEE13FFD0BC000829FC /* EphesiansBookxmltrans.htm */;
+		name = "EphesiansBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 9757;
+		vrLoc = 47266;
+	};
+	B9685EA114027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1E13FFD0DB000829FC /* PhilippiansBookxmltrans.htm */;
+		name = "PhilippiansBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 439;
+		rType = 0;
+		vrLen = 12414;
+		vrLoc = 23172;
+	};
+	B9685EA214027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CEA13FFD0BC000829FC /* ColossiansBookxmltrans.htm */;
+		name = "ColossiansBookxmltrans.htm: 7";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 13030;
+		vrLoc = 23814;
+	};
+	B9685EA314027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCA13FFCE03000829FC /* 1 ThessaloniansBookxmltrans.htm */;
+		name = "1 ThessaloniansBookxmltrans.htm: 3";
+		rLen = 0;
+		rLoc = 47;
+		rType = 0;
+		vrLen = 11880;
+		vrLoc = 21083;
+	};
+	B9685EA414027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD213FFCE03000829FC /* 2 ThessaloniansBookxmltrans.htm */;
+		name = "2 ThessaloniansBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 9882;
+		vrLoc = 16;
+	};
+	B9685EA514027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCB13FFCE03000829FC /* 1 TimothyBookxmltrans.htm */;
+		name = "1 TimothyBookxmltrans.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 9739;
+		vrLoc = 30512;
+	};
+	B9685EA614027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD313FFCE03000829FC /* 2 TimothyBookxmltrans.htm */;
+		name = "2 TimothyBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 11894;
+		vrLoc = 18570;
+	};
+	B9685EA714027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3C13FFD0FB000829FC /* TitusBookxmltrans.htm */;
+		name = "TitusBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 433;
+		rType = 0;
+		vrLen = 11799;
+		vrLoc = 5737;
+	};
+	B9685EA814027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1D13FFD0DB000829FC /* PhilemonBookxmltrans.htm */;
+		name = "PhilemonBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 420;
+		rType = 0;
+		vrLen = 7892;
+		vrLoc = 0;
+	};
+	B9685EA914027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D0913FFD0DB000829FC /* JamesBookxmltrans.htm */;
+		name = "JamesBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 11881;
+		vrLoc = 22485;
+	};
+	B9685EAA14027744000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CF713FFD0BC000829FC /* HebrewsBookxmltrans.htm */;
+		name = "HebrewsBookxmltrans.htm: 324";
+		rLen = 19;
+		rLoc = 94141;
+		rType = 0;
+		vrLen = 8819;
+		vrLoc = 92212;
+	};
+	B9685EAD140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC813FFCE03000829FC /* 1 PeterBookxmltrans.htm */;
+		name = "1 PeterBookxmltrans.htm: 117";
+		rLen = 0;
+		rLoc = 38378;
+		rType = 0;
+		vrLen = 11338;
+		vrLoc = 30285;
+	};
+	B9685EAE140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD013FFCE03000829FC /* 2 PeterBookxmltrans.htm */;
+		name = "2 PeterBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 13315;
+		vrLoc = 9547;
+	};
+	B9685EAF140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CC613FFCE03000829FC /* 1 JohnBookxmltrans.htm */;
+		name = "1 JohnBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 418;
+		rType = 0;
+		vrLen = 11096;
+		vrLoc = 24514;
+	};
+	B9685EB0140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CCE13FFCE03000829FC /* 2 JohnBookxmltrans.htm */;
+		name = "2 JohnBookxmltrans.htm: 2";
+		rLen = 0;
+		rLoc = 15;
+		rType = 0;
+		vrLen = 4928;
+		vrLoc = 0;
+	};
+	B9685EB1140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685CD413FFCE03000829FC /* 3 JohnBookxmltrans.htm */;
+		name = "3 JohnBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 4434;
+		vrLoc = 0;
+	};
+	B9685EB2140277CF000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D1013FFD0DB000829FC /* JudeBookxmltrans.htm */;
+		name = "JudeBookxmltrans.htm: 9";
+		rLen = 0;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 10580;
+		vrLoc = 584;
+	};
+	B9685EC914027DDE000829FC /* Insp_articles.css */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 527}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 526}";
+		};
+	};
+	B9685ED5140286B3000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685D3813FFD0FB000829FC /* RevelationBookxmltrans.htm */;
+		name = "RevelationBookxmltrans.htm: 232";
+		rLen = 0;
+		rLoc = 87383;
+		rType = 0;
+		vrLen = 12304;
+		vrLoc = 0;
+	};
+	B9685ED6140286B3000829FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9685EC914027DDE000829FC /* Insp_articles.css */;
+		name = "Insp_articles.css: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	B96E05E713CE2171003E1E9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B431357020B00AEE56A /* HelpViewController.m */;
+		name = "HelpViewController.m: 210";
+		rLen = 0;
+		rLoc = 5628;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 3625;
+	};
+	B96E05EE13CE2400003E1E9B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B985A9321368475A00B21F2A /* SearchModifiedViewController.h */;
+		name = "SearchModifiedViewController.h: 23";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 883;
+		vrLoc = 0;
+	};
+	B97BCB25136086E4004C490C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B481357020B00AEE56A /* BiblePlanner.h */;
+		name = "BiblePlanner.h: 14";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	B97E6B3A1357020B00AEE56A /* AdvancedSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 611}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	B97E6B3B1357020B00AEE56A /* AdvancedSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 3198}}";
+			sepNavSelRange = "{6439, 0}";
+			sepNavVisRange = "{1246, 988}";
+		};
+	};
+	B97E6B3C1357020B00AEE56A /* PredictSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 506}}";
+			sepNavSelRange = "{356, 35}";
+			sepNavVisRange = "{0, 540}";
+		};
+	};
+	B97E6B3D1357020B00AEE56A /* PredictSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 3718}}";
+			sepNavSelRange = "{9701, 0}";
+			sepNavVisRange = "{0, 1128}";
+		};
+	};
+	B97E6B401357020B00AEE56A /* MyBookmarkViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 503}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 376}";
+		};
+	};
+	B97E6B411357020B00AEE56A /* MyBookmarkViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2366}}";
+			sepNavSelRange = "{4560, 0}";
+			sepNavVisRange = "{3731, 1242}";
+		};
+	};
+	B97E6B421357020B00AEE56A /* HelpViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 525}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	B97E6B431357020B00AEE56A /* HelpViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 3289}}";
+			sepNavSelRange = "{5576, 0}";
+			sepNavVisRange = "{5451, 280}";
+		};
+	};
+	B97E6B441357020B00AEE56A /* MyNotesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 523}}";
+			sepNavSelRange = "{329, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	B97E6B451357020B00AEE56A /* MyNotesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2613}}";
+			sepNavSelRange = "{760, 345}";
+			sepNavVisRange = "{611, 1034}";
+		};
+	};
+	B97E6B471357020B00AEE56A /* MyStuffViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4374, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4425, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4475, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6568}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2925}}";
+			sepNavSelRange = "{5507, 0}";
+			sepNavVisRange = "{5030, 1058}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B97E6B481357020B00AEE56A /* BiblePlanner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 498}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	B97E6B491357020B00AEE56A /* BiblePlanner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2600}}";
+			sepNavSelRange = "{4551, 0}";
+			sepNavVisRange = "{3917, 1117}";
+		};
+	};
+	B97E6B4B1357020B00AEE56A /* BibleConcordanceViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2795}}";
+			sepNavSelRange = "{3591, 0}";
+			sepNavVisRange = "{4851, 1101}";
+		};
+	};
+	B97E6B4C1357020B00AEE56A /* BibleBooksViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 544}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	B97E6B4D1357020B00AEE56A /* BibleBooksViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3848}}";
+			sepNavSelRange = "{4029, 60}";
+			sepNavVisRange = "{2380, 1710}";
+		};
+	};
+	B97E6B4E1357020B00AEE56A /* ChaptersViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 457}}";
+			sepNavSelRange = "{542, 0}";
+			sepNavVisRange = "{0, 542}";
+		};
+	};
+	B97E6B4F1357020B00AEE56A /* ChaptersViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2448, 13858}}";
+			sepNavSelRange = "{47858, 84}";
+			sepNavVisRange = "{47190, 1308}";
+		};
+	};
+	B97E6B511357020B00AEE56A /* InspirationArticlesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 4186}}";
+			sepNavSelRange = "{558, 0}";
+			sepNavVisRange = "{0, 1110}";
+		};
+	};
+	B97E6B531357020B00AEE56A /* VersesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {13263, 132028}}";
+			sepNavSelRange = "{4117356, 0}";
+			sepNavVisRange = "{4108437, 19948}";
+		};
+	};
+	B97E6B541357020B00AEE56A /* LibraryViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 544}}";
+			sepNavSelRange = "{556, 0}";
+			sepNavVisRange = "{0, 563}";
+		};
+	};
+	B97E6B551357020B00AEE56A /* LibraryViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4297, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4348, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4398, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6770}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {929, 3263}}";
+			sepNavSelRange = "{5966, 0}";
+			sepNavVisRange = "{5355, 1264}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B97E6C391357035A00AEE56A /* A-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 5564}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3860}";
+		};
+	};
+	B97E6C3B1357035A00AEE56A /* C-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 8567}}";
+			sepNavSelRange = "{666, 44}";
+			sepNavVisRange = "{0, 2592}";
+		};
+	};
+	B97E6C3C1357035A00AEE56A /* D-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 8658}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{84, 3301}";
+		};
+	};
+	B97E6C3D1357035A00AEE56A /* E-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 7852}}";
+			sepNavSelRange = "{449, 46}";
+			sepNavVisRange = "{0, 3275}";
+		};
+	};
+	B97E6C3E1357035A00AEE56A /* F-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 17927}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3359}";
+		};
+	};
+	B97E6C451357035A00AEE56A /* M-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 3354}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2906}";
+		};
+	};
+	B97E6C461357035B00AEE56A /* N-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1911}}";
+			sepNavSelRange = "{231, 0}";
+			sepNavVisRange = "{0, 3157}";
+		};
+	};
+	B97E6C471357035B00AEE56A /* O-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 949}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3300}";
+		};
+	};
+	B97E6C481357035B00AEE56A /* P-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 6864}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3382}";
+		};
+	};
+	B97E6C491357035B00AEE56A /* Q-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1281}";
+		};
+	};
+	B97E6C4A1357035B00AEE56A /* R-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1601, 8164}}";
+			sepNavSelRange = "{14013, 50}";
+			sepNavVisRange = "{12015, 3148}";
+		};
+	};
+	B97E6C4B1357035B00AEE56A /* S-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 14443}}";
+			sepNavSelRange = "{105073, 0}";
+			sepNavVisRange = "{102782, 3296}";
+		};
+	};
+	B97E6C4C1357035B00AEE56A /* T-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 5889}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3157}";
+		};
+	};
+	B97E6C501357035B00AEE56A /* Y-Concordance.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3388}";
+		};
+	};
+	B97E6C521357035B00AEE56A /* Personal_word.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4282, 543}}";
+			sepNavSelRange = "{587, 0}";
+			sepNavVisRange = "{0, 1917}";
+		};
+	};
+	B97EBC7D13D9F68000497C10 /* TheWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 353}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{0, 300}";
+		};
+	};
+	B97EBC7E13D9F68000497C10 /* TheWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1209}}";
+			sepNavSelRange = "{1619, 0}";
+			sepNavVisRange = "{419, 1342}";
+		};
+	};
+	B97EBCF413DAC01F00497C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A736EF13D1C2CE00107D82 /* ReferenceViewController2.h */;
+		name = "ReferenceViewController2.h: 19";
+		rLen = 0;
+		rLoc = 426;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	B97EBCF513DAC01F00497C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97EBC7D13D9F68000497C10 /* TheWebView.h */;
+		name = "TheWebView.h: 16";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	B981CA0B13DDFB3800D8E911 /* TouchCapturingWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 399}";
+		};
+	};
+	B981CA0C13DDFB4800D8E911 /* TouchCapturingWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 871}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1376}";
+		};
+	};
+	B981CA5013DEAE9100D8E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B981CA0C13DDFB4800D8E911 /* TouchCapturingWindow.m */;
+		name = "TouchCapturingWindow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1376;
+		vrLoc = 0;
+	};
+	B981CA5113DEAE9100D8E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B981CA0B13DDFB3800D8E911 /* TouchCapturingWindow.h */;
+		name = "TouchCapturingWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	B9820B9C13A7BE85008206E8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9820B8613A7ADB8008206E8 /* form_bkgr.jpg */;
+	};
+	B9820BB113A7C07F008206E8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9820B8813A7ADB8008206E8 /* send_btn.jpg */;
+	};
+	B9820D5D13ABA64E008206E8 /* Contact_us_fin.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 676}}";
+			sepNavSelRange = "{1246, 0}";
+			sepNavVisRange = "{473, 1073}";
+		};
+	};
+	B9820D6713ABAC90008206E8 /* Contact_us_form.css */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1248}}";
+			sepNavSelRange = "{893, 0}";
+			sepNavVisRange = "{723, 485}";
+		};
+	};
+	B9820DB213ADBECC008206E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9820D5D13ABA64E008206E8 /* Contact_us_fin.htm */;
+		name = "Contact_us_fin.htm: 34";
+		rLen = 0;
+		rLoc = 1246;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 473;
+	};
+	B9820DB313ADBECC008206E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9820D6713ABAC90008206E8 /* Contact_us_form.css */;
+		name = "Contact_us_form.css: 64";
+		rLen = 0;
+		rLoc = 893;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 723;
+	};
+	B98300D013EDA35100F35FC9 /* 1 ChroniclesRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 ChroniclesRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 ChroniclesRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D213EDA35100F35FC9 /* 1 JohnRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 JohnRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 JohnRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D313EDA35100F35FC9 /* 1 KingsRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 KingsRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 KingsRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D513EDA35100F35FC9 /* 1 SamuelRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 SamuelRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 SamuelRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D613EDA35100F35FC9 /* 1 ThessaloniansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 ThessaloniansRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 ThessaloniansRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D713EDA35100F35FC9 /* 1 TimothyRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "1 TimothyRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/1 TimothyRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D813EDA35100F35FC9 /* 2 ChroniclesRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 ChroniclesRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 ChroniclesRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300D913EDA35100F35FC9 /* 2 CorinthiansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 CorinthiansRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 CorinthiansRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300DB13EDA35100F35FC9 /* 2 KingsRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 KingsRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 KingsRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300DC13EDA35100F35FC9 /* 2 PeterRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 PeterRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 PeterRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300DD13EDA35100F35FC9 /* 2 SamuelRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 SamuelRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 SamuelRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300DE13EDA35100F35FC9 /* 2 ThessaloniansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 ThessaloniansRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 ThessaloniansRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300DF13EDA35100F35FC9 /* 2 TimothyRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = "2 TimothyRef.htm";
+		path = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/2 TimothyRef.htm";
+		sourceTree = "<absolute>";
+	};
+	B98300E113EDA35100F35FC9 /* ActsRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = ActsRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/ActsRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300E313EDA35100F35FC9 /* ColossiansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = ColossiansRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/ColossiansRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300E513EDA35100F35FC9 /* DeuteronomyRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = DeuteronomyRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/DeuteronomyRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300E713EDA35100F35FC9 /* EphesiansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = EphesiansRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/EphesiansRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300EA13EDA35100F35FC9 /* EzekielRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = EzekielRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/EzekielRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300EC13EDA35100F35FC9 /* GalatiansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = GalatiansRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/GalatiansRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F013EDA35100F35FC9 /* HebrewsRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = HebrewsRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/HebrewsRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F213EDA35100F35FC9 /* IsaiahRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = IsaiahRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/IsaiahRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F313EDA35100F35FC9 /* JamesRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JamesRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JamesRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F413EDA35100F35FC9 /* JeremiahRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JeremiahRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JeremiahRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F513EDA35100F35FC9 /* JobRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JobRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JobRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F713EDA35100F35FC9 /* JohnRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JohnRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JohnRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300F913EDA35100F35FC9 /* JoshuaRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JoshuaRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JoshuaRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300FB13EDA35100F35FC9 /* JudgesRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = JudgesRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/JudgesRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B98300FE13EDA35100F35FC9 /* LukeRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = LukeRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/LukeRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010313EDA35100F35FC9 /* NahumRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = NahumRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/NahumRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010513EDA35100F35FC9 /* NumbersRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = NumbersRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/NumbersRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010713EDA35100F35FC9 /* PhilemonRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = PhilemonRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/PhilemonRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010813EDA35100F35FC9 /* PhilippiansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = PhilippiansRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/PhilippiansRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010913EDA35100F35FC9 /* ProverbsRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = ProverbsRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/ProverbsRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010A13EDA35100F35FC9 /* PsalmRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = PsalmRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/PsalmRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010B13EDA35100F35FC9 /* RevelationRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = RevelationRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/RevelationRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010C13EDA35100F35FC9 /* RomansRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = RomansRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/RomansRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983010F13EDA35100F35FC9 /* TitusRef.htm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = TitusRef.htm;
+		path = /Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/TitusRef.htm;
+		sourceTree = "<absolute>";
+	};
+	B983016013EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D013EDA35100F35FC9 /* 1 ChroniclesRef.htm */;
+		name = "1 ChroniclesRef.htm: 5";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 6300;
+		vrLoc = 0;
+	};
+	B983016213EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D213EDA35100F35FC9 /* 1 JohnRef.htm */;
+		name = "1 JohnRef.htm: 5";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 6361;
+		vrLoc = 0;
+	};
+	B983016313EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D313EDA35100F35FC9 /* 1 KingsRef.htm */;
+		name = "1 KingsRef.htm: 5";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 6826;
+		vrLoc = 0;
+	};
+	B983016513EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D513EDA35100F35FC9 /* 1 SamuelRef.htm */;
+		name = "1 SamuelRef.htm: 5";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 6591;
+		vrLoc = 0;
+	};
+	B983016613EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D613EDA35100F35FC9 /* 1 ThessaloniansRef.htm */;
+		name = "1 ThessaloniansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7324;
+		vrLoc = 0;
+	};
+	B983016713EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D713EDA35100F35FC9 /* 1 TimothyRef.htm */;
+		name = "1 TimothyRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6963;
+		vrLoc = 0;
+	};
+	B983016813EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D813EDA35100F35FC9 /* 2 ChroniclesRef.htm */;
+		name = "2 ChroniclesRef.htm: 5";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 7332;
+		vrLoc = 0;
+	};
+	B983016913EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300D913EDA35100F35FC9 /* 2 CorinthiansRef.htm */;
+		name = "2 CorinthiansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7178;
+		vrLoc = 0;
+	};
+	B983016B13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300DB13EDA35100F35FC9 /* 2 KingsRef.htm */;
+		name = "2 KingsRef.htm: 5";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 6722;
+		vrLoc = 0;
+	};
+	B983016C13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300DC13EDA35100F35FC9 /* 2 PeterRef.htm */;
+		name = "2 PeterRef.htm: 5";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 7571;
+		vrLoc = 0;
+	};
+	B983016D13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300DD13EDA35100F35FC9 /* 2 SamuelRef.htm */;
+		name = "2 SamuelRef.htm: 5";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 7041;
+		vrLoc = 0;
+	};
+	B983016E13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300DE13EDA35100F35FC9 /* 2 ThessaloniansRef.htm */;
+		name = "2 ThessaloniansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7151;
+		vrLoc = 0;
+	};
+	B983016F13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300DF13EDA35100F35FC9 /* 2 TimothyRef.htm */;
+		name = "2 TimothyRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6759;
+		vrLoc = 0;
+	};
+	B983017113EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300E113EDA35100F35FC9 /* ActsRef.htm */;
+		name = "ActsRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 8193;
+		vrLoc = 0;
+	};
+	B983017313EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300E313EDA35100F35FC9 /* ColossiansRef.htm */;
+		name = "ColossiansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7210;
+		vrLoc = 0;
+	};
+	B983017513EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300E513EDA35100F35FC9 /* DeuteronomyRef.htm */;
+		name = "DeuteronomyRef.htm: 5";
+		rLen = 0;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 7690;
+		vrLoc = 0;
+	};
+	B983017713EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300E713EDA35100F35FC9 /* EphesiansRef.htm */;
+		name = "EphesiansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7387;
+		vrLoc = 0;
+	};
+	B983017A13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300EA13EDA35100F35FC9 /* EzekielRef.htm */;
+		name = "EzekielRef.htm: 5";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 6753;
+		vrLoc = 0;
+	};
+	B983017C13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300EC13EDA35100F35FC9 /* GalatiansRef.htm */;
+		name = "GalatiansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7185;
+		vrLoc = 0;
+	};
+	B983018013EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F013EDA35100F35FC9 /* HebrewsRef.htm */;
+		name = "HebrewsRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7725;
+		vrLoc = 0;
+	};
+	B983018213EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F213EDA35100F35FC9 /* IsaiahRef.htm */;
+		name = "IsaiahRef.htm: 5";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 7665;
+		vrLoc = 0;
+	};
+	B983018313EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F313EDA35100F35FC9 /* JamesRef.htm */;
+		name = "JamesRef.htm: 5";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 7751;
+		vrLoc = 0;
+	};
+	B983018413EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F413EDA35100F35FC9 /* JeremiahRef.htm */;
+		name = "JeremiahRef.htm: 5";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 7405;
+		vrLoc = 0;
+	};
+	B983018513EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F513EDA35100F35FC9 /* JobRef.htm */;
+		name = "JobRef.htm: 5";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 6584;
+		vrLoc = 0;
+	};
+	B983018713EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F713EDA35100F35FC9 /* JohnRef.htm */;
+		name = "JohnRef.htm: 537";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 9046;
+		vrLoc = 0;
+	};
+	B983018913EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300F913EDA35100F35FC9 /* JoshuaRef.htm */;
+		name = "JoshuaRef.htm: 5";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 7421;
+		vrLoc = 0;
+	};
+	B983018B13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300FB13EDA35100F35FC9 /* JudgesRef.htm */;
+		name = "JudgesRef.htm: 5";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 6712;
+		vrLoc = 0;
+	};
+	B983018E13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B98300FE13EDA35100F35FC9 /* LukeRef.htm */;
+		name = "LukeRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 9221;
+		vrLoc = 0;
+	};
+	B983019313EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010313EDA35100F35FC9 /* NahumRef.htm */;
+		name = "NahumRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7126;
+		vrLoc = 0;
+	};
+	B983019513EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010513EDA35100F35FC9 /* NumbersRef.htm */;
+		name = "NumbersRef.htm: 5";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 7229;
+		vrLoc = 0;
+	};
+	B983019713EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010713EDA35100F35FC9 /* PhilemonRef.htm */;
+		name = "PhilemonRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 4780;
+		vrLoc = 0;
+	};
+	B983019813EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010813EDA35100F35FC9 /* PhilippiansRef.htm */;
+		name = "PhilippiansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6961;
+		vrLoc = 0;
+	};
+	B983019913EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010913EDA35100F35FC9 /* ProverbsRef.htm */;
+		name = "ProverbsRef.htm: 5";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 7866;
+		vrLoc = 0;
+	};
+	B983019A13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010A13EDA35100F35FC9 /* PsalmRef.htm */;
+		name = "PsalmRef.htm: 5";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 8287;
+		vrLoc = 0;
+	};
+	B983019B13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010B13EDA35100F35FC9 /* RevelationRef.htm */;
+		name = "RevelationRef.htm: 5";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 8560;
+		vrLoc = 0;
+	};
+	B983019C13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010C13EDA35100F35FC9 /* RomansRef.htm */;
+		name = "RomansRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7467;
+		vrLoc = 0;
+	};
+	B983019F13EDAAB400F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B983010F13EDA35100F35FC9 /* TitusRef.htm */;
+		name = "TitusRef.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 6560;
+		vrLoc = 0;
+	};
+	B983FFCA13E266CC00F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B3A1357020B00AEE56A /* AdvancedSearchViewController.h */;
+		name = "AdvancedSearchViewController.h: 15";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	B983FFCB13E266CC00F35FC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A15E1F136DBC710022DA45 /* VersesforPredictSearchViewController.m */;
+		name = "VersesforPredictSearchViewController.m: 144";
+		rLen = 0;
+		rLoc = 3868;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 3203;
+	};
+	B985A9321368475A00B21F2A /* SearchModifiedViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 530}}";
+			sepNavSelRange = "{590, 0}";
+			sepNavVisRange = "{0, 883}";
+		};
+	};
+	B985A9331368475A00B21F2A /* SearchModifiedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1153, 3393}}";
+			sepNavSelRange = "{4573, 51}";
+			sepNavVisRange = "{2720, 1905}";
+			sepNavWindowFrame = "{{61, 430}, {926, 301}}";
+		};
+	};
+	B987AC95135C7C86000A84D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C3E1357035A00AEE56A /* F-Concordance.html */;
+		name = "F-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3359;
+		vrLoc = 0;
+	};
+	B987AD04135C944D000A84D6 /* AboutImageViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 525}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 254}";
+		};
+	};
+	B987AD05135C944D000A84D6 /* AboutImageViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 832}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 1094}";
+		};
+	};
+	B988C02D13D96E6D00F0D9E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B531357020B00AEE56A /* VersesViewController.m */;
+		name = "VersesViewController.m: 9580";
+		rLen = 0;
+		rLoc = 4117356;
+		rType = 0;
+		vrLen = 19948;
+		vrLoc = 4108437;
+	};
+	B98E2C67139A37AF00472D14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C4A1357035B00AEE56A /* R-Concordance.html */;
+		name = "R-Concordance.html: 149";
+		rLen = 50;
+		rLoc = 14013;
+		rType = 0;
+		vrLen = 3148;
+		vrLoc = 12015;
+	};
+	B98E503413718C0600FEF738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B491357020B00AEE56A /* BiblePlanner.m */;
+		name = "BiblePlanner.m: 171";
+		rLen = 0;
+		rLoc = 4551;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 3917;
+	};
+	B997E3B913D5920C00463FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B541357020B00AEE56A /* LibraryViewController.h */;
+		name = "LibraryViewController.h: 22";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 0;
+	};
+	B997E3BA13D5920C00463FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B4D1357020B00AEE56A /* BibleBooksViewController.m */;
+		name = "BibleBooksViewController.m: 118";
+		rLen = 60;
+		rLoc = 4029;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 2380;
+	};
+	B997E3BB13D5920C00463FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B4C1357020B00AEE56A /* BibleBooksViewController.h */;
+		name = "BibleBooksViewController.h: 13";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	B997E3D413D5A4E200463FC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8ED139A6126005B4E35 /* The Prevailing Power Of Praise.htm */;
+		name = "The Prevailing Power Of Praise.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1384;
+		vrLoc = 0;
+	};
+	B9A045B71393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C451357035A00AEE56A /* M-Concordance.html */;
+		name = "M-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2906;
+		vrLoc = 0;
+	};
+	B9A045B81393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C461357035B00AEE56A /* N-Concordance.html */;
+		name = "N-Concordance.html: 3";
+		rLen = 0;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 3157;
+		vrLoc = 0;
+	};
+	B9A045B91393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C471357035B00AEE56A /* O-Concordance.html */;
+		name = "O-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3300;
+		vrLoc = 0;
+	};
+	B9A045BA1393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C481357035B00AEE56A /* P-Concordance.html */;
+		name = "P-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3382;
+		vrLoc = 0;
+	};
+	B9A045BB1393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C491357035B00AEE56A /* Q-Concordance.html */;
+		name = "Q-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 0;
+	};
+	B9A045BD1393D50F004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C4C1357035B00AEE56A /* T-Concordance.html */;
+		name = "T-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3157;
+		vrLoc = 0;
+	};
+	B9A045EB1393EAEF004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C3D1357035A00AEE56A /* E-Concordance.html */;
+		name = "E-Concordance.html: 9";
+		rLen = 46;
+		rLoc = 449;
+		rType = 0;
+		vrLen = 3275;
+		vrLoc = 0;
+	};
+	B9A0465413955095004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C3C1357035A00AEE56A /* D-Concordance.html */;
+		name = "D-Concordance.html: 6";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 3301;
+		vrLoc = 84;
+	};
+	B9A047021397076A004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C3B1357035A00AEE56A /* C-Concordance.html */;
+		name = "C-Concordance.html: 14";
+		rLen = 44;
+		rLoc = 666;
+		rType = 0;
+		vrLen = 2592;
+		vrLoc = 0;
+	};
+	B9A047471397BF39004C9898 /* FontOptionsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 547}}";
+			sepNavSelRange = "{269, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	B9A047481397BF39004C9898 /* FontOptionsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2301}}";
+			sepNavSelRange = "{4077, 0}";
+			sepNavVisRange = "{1990, 1273}";
+		};
+	};
+	B9A0474A1397BF39004C9898 /* SettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 442}}";
+			sepNavSelRange = "{882, 0}";
+			sepNavVisRange = "{0, 953}";
+		};
+	};
+	B9A0474B1397BF39004C9898 /* SettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4645, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4696, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4746, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6397}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {874, 3263}}";
+			sepNavSelRange = "{1222, 0}";
+			sepNavVisRange = "{704, 751}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B9A0478C1397ED31004C9898 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B900B2CB138AAF1900844F48 /* Autocomplete.m */;
+		name = "Autocomplete.m: 187";
+		rLen = 0;
+		rLoc = 3300;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 1516;
+	};
+	B9A15D5A136D76560022DA45 /* ChaptersforPredictSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 525}}";
+			sepNavSelRange = "{390, 71}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	B9A15D5B136D76560022DA45 /* ChaptersforPredictSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3328}}";
+			sepNavSelRange = "{6910, 0}";
+			sepNavVisRange = "{6231, 997}";
+		};
+	};
+	B9A15E1E136DBC710022DA45 /* VersesforPredictSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 525}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{0, 461}";
+		};
+	};
+	B9A15E1F136DBC710022DA45 /* VersesforPredictSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2249}}";
+			sepNavSelRange = "{3868, 0}";
+			sepNavVisRange = "{3203, 1288}";
+		};
+	};
+	B9A7355E13D0BAEA00107D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B985A9331368475A00B21F2A /* SearchModifiedViewController.m */;
+		name = "SearchModifiedViewController.m: 115";
+		rLen = 51;
+		rLoc = 4573;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 2720;
+	};
+	B9A7355F13D0BAEA00107D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B4B1357020B00AEE56A /* BibleConcordanceViewController.m */;
+		name = "BibleConcordanceViewController.m: 130";
+		rLen = 0;
+		rLoc = 3591;
+		rType = 0;
+		vrLen = 1101;
+		vrLoc = 4851;
+	};
+	B9A7363013D1713600107D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A047471397BF39004C9898 /* FontOptionsViewController.h */;
+		name = "FontOptionsViewController.h: 11";
+		rLen = 0;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	B9A7363513D17C7300107D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B90E139A6126005B4E35 /* You're The Fulfillment of God's Dream.htm */;
+		name = "You're The Fulfillment of God's Dream.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1364;
+		vrLoc = 0;
+	};
+	B9A736EF13D1C2CE00107D82 /* ReferenceViewController2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 376}}";
+			sepNavSelRange = "{426, 0}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	B9A736F013D1C2CE00107D82 /* ReferenceViewController2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 1183}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{1425, 1053}";
+		};
+	};
+	B9A7377413D4A3C800107D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B900B2CA138AAF1900844F48 /* Autocomplete.h */;
+		name = "Autocomplete.h: 22";
+		rLen = 0;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	B9A7B89F139A6125005B4E35 /* All Things Have Become New!.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 819}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1164}";
+		};
+	};
+	B9A7B8A1139A6125005B4E35 /* Are You A Minus Or A Plus.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1105}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1111}";
+		};
+	};
+	B9A7B8A9139A6125005B4E35 /* Dare To Believe God's Word.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1014}}";
+			sepNavSelRange = "{207, 8}";
+			sepNavVisRange = "{0, 1156}";
+		};
+	};
+	B9A7B8AB139A6125005B4E35 /* Do Something Stop Waiting.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1164}";
+		};
+	};
+	B9A7B8B7139A6125005B4E35 /* God's Word: The Most Valuable Treasure in The World.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{442, 1266}";
+		};
+	};
+	B9A7B8DF139A6126005B4E35 /* Stay Filled With The Spirit.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1469}";
+		};
+	};
+	B9A7B8E0139A6126005B4E35 /* Stir Up The Fire Continually!.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1030}";
+		};
+	};
+	B9A7B8E3139A6126005B4E35 /* Take It By Force!.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1027}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1046}";
+		};
+	};
+	B9A7B8ED139A6126005B4E35 /* The Prevailing Power Of Praise.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1384}";
+		};
+	};
+	B9A7B8FB139A6126005B4E35 /* What Can You See.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1041}";
+		};
+	};
+	B9A7B909139A6126005B4E35 /* You Were In God's Plan.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 988}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 1058}";
+		};
+	};
+	B9A7B90B139A6126005B4E35 /* You're From Above.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 413}";
+			sepNavWindowFrame = "{{15, 472}, {926, 301}}";
+		};
+	};
+	B9A7B90E139A6126005B4E35 /* You're The Fulfillment of God's Dream.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 910}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1364}";
+		};
+	};
+	B9A7B90F139A6126005B4E35 /* You're Up To The Task!.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 923}}";
+			sepNavSelRange = "{398, 0}";
+			sepNavVisRange = "{0, 1286}";
+		};
+	};
+	B9A7B914139A6126005B4E35 /* Your Set Time To Walk In Victory.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 819}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1642}";
+		};
+	};
+	B9A7B9C5139BCBEE005B4E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C4B1357035B00AEE56A /* S-Concordance.html */;
+		name = "S-Concordance.html: 1099";
+		rLen = 0;
+		rLoc = 105073;
+		rType = 0;
+		vrLen = 3296;
+		vrLoc = 102782;
+	};
+	B9A7B9C7139BCBEE005B4E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8B7139A6125005B4E35 /* God's Word: The Most Valuable Treasure in The World.htm */;
+		name = "God's Word: The Most Valuable Treasure in The World.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 442;
+	};
+	B9A7B9C8139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A047DA13980DE5004C9898 /* cancel_bttn.png */;
+	};
+	B9A7B9C9139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A047DC13980DF5004C9898 /* send_bttn.png */;
+	};
+	B9A7B9CA139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A0460A13941215004C9898 /* bkmark_topless.png */;
+	};
+	B9A7B9CB139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045FC1393F39C004C9898 /* exact_match.png */;
+	};
+	B9A7B9CC139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045FE1393F3AB004C9898 /* any_word.png */;
+	};
+	B9A7B9CD139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045A81393CE43004C9898 /* notes.png */;
+	};
+	B9A7B9CE139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A046001393F3BB004C9898 /* all_words.png */;
+	};
+	B9A7B9CF139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045A61393CE2C004C9898 /* create_bookmark.png */;
+	};
+	B9A7B9D0139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045A21393CDD6004C9898 /* cancel.png */;
+	};
+	B9A7B9D1139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9BDD7FC13758A41001591E8 /* create_bttn.jpg */;
+	};
+	B9A7B9D2139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B2E1356FEDE00AEE56A /* application_icon.png */;
+	};
+	B9A7B9D3139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B2D1356FEDE00AEE56A /* setting.png */;
+	};
+	B9A7B9D4139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B211356FEC000AEE56A /* library.png */;
+	};
+	B9A7B9D5139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B201356FEC000AEE56A /* reference.png */;
+	};
+	B9A7B9D6139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B1F1356FEC000AEE56A /* browse.png */;
+	};
+	B9A7B9D7139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B1D1356FEC000AEE56A /* searchreal.png */;
+	};
+	B9A7B9D8139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B1C1356FEC000AEE56A /* settingreal.png */;
+	};
+	B9A7B9D9139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B1B1356FEC000AEE56A /* bookmarkoff_real.png */;
+	};
+	B9A7B9DA139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B1A1356FEC000AEE56A /* mystuff.png */;
+	};
+	B9A7B9DB139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B191356FEC000AEE56A /* bookmarkactive_real.png */;
+	};
+	B9A7B9DC139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B071356FE9C00AEE56A /* bookmarklive.png */;
+	};
+	B9A7B9DD139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B061356FE9C00AEE56A /* bottom_bar.png */;
+	};
+	B9A7B9DE139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B051356FE9C00AEE56A /* briefcase.png */;
+	};
+	B9A7B9DF139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B041356FE9C00AEE56A /* button.png */;
+	};
+	B9A7B9E0139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B021356FE9B00AEE56A /* bookmark.png */;
+	};
+	B9A7B9E1139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9BDD976137810C9001591E8 /* bookmark_crop.png */;
+	};
+	B9A7B9E2139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6B001356FE9B00AEE56A /* pink_buttons.png */;
+	};
+	B9A7B9E3139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AFF1356FE9B00AEE56A /* blue_button_long.png */;
+	};
+	B9A7B9E4139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AFC1356FE9B00AEE56A /* search.png */;
+	};
+	B9A7B9E5139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AFA1356FE9B00AEE56A /* bar.png */;
+	};
+	B9A7B9E6139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AF91356FE9B00AEE56A /* back.png */;
+	};
+	B9A7B9E7139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AF81356FE9B00AEE56A /* top_img.jpg */;
+	};
+	B9A7B9E8139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B97E6AF71356FE9B00AEE56A /* bottom_img.jpg */;
+	};
+	B9A7B9E9139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B987ACF3135C8E71000A84D6 /* help_about.jpg */;
+	};
+	B9A7B9EA139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B987ACF5135C8E81000A84D6 /* help_release.jpg */;
+	};
+	B9A7B9EB139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B985AA051369D0E300B21F2A /* unckecked.jpg */;
+	};
+	B9A7B9EC139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B985AA031369D0CF00B21F2A /* checked.jpg */;
+	};
+	B9A7B9ED139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9BDD8921375E755001591E8 /* e-ror_bible_splashscreen_1.jpg */;
+	};
+	B9A7B9EE139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9BDD9D213785183001591E8 /* cnct_bttn_cancel.jpg */;
+	};
+	B9A7B9EF139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045F01393EFD4004C9898 /* notes_done.png */;
+	};
+	B9A7B9F0139BCBEE005B4E35 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B9A045F21393EFE5004C9898 /* notes_save.png */;
+	};
+	B9A7B9F1139BCBEE005B4E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B90F139A6126005B4E35 /* You're Up To The Task!.htm */;
+		name = "You're Up To The Task!.htm: 9";
+		rLen = 0;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 0;
+	};
+	B9AF72FC13AFCC580051CCDB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8A1139A6125005B4E35 /* Are You A Minus Or A Plus.htm */;
+		name = "Are You A Minus Or A Plus.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 0;
+	};
+	B9B396D9136D3CC1005B41FA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ROR_Bible-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/imm/EHISS_STUFFS_MAC/Ma_Xcode_Project/ROR_Bible/ROR_Bible-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B9B63F8913C322C900F3F549 /* Find Out What The Lord Wants.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1013}";
+		};
+	};
+	B9B63F9D13C35C1100F3F549 /* See The Invisible, Believe The Impossible.htm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 975}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1066}";
+		};
+	};
+	B9B6409413C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B909139A6126005B4E35 /* You Were In God's Plan.htm */;
+		name = "You Were In God's Plan.htm: 2";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 0;
+	};
+	B9B6409613C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9B63F8913C322C900F3F549 /* Find Out What The Lord Wants.htm */;
+		name = "Find Out What The Lord Wants.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 0;
+	};
+	B9B6409713C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8AB139A6125005B4E35 /* Do Something Stop Waiting.htm */;
+		name = "Do Something Stop Waiting.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1164;
+		vrLoc = 0;
+	};
+	B9B6409913C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8FB139A6126005B4E35 /* What Can You See.htm */;
+		name = "What Can You See.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 0;
+	};
+	B9B6409B13C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8E3139A6126005B4E35 /* Take It By Force!.htm */;
+		name = "Take It By Force!.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 0;
+	};
+	B9B6409C13C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8E0139A6126005B4E35 /* Stir Up The Fire Continually!.htm */;
+		name = "Stir Up The Fire Continually!.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 0;
+	};
+	B9B6409D13C7558400F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9B63F9D13C35C1100F3F549 /* See The Invisible, Believe The Impossible.htm */;
+		name = "See The Invisible, Believe The Impossible.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 0;
+	};
+	B9B640CF13C78EF600F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A7B8DF139A6126005B4E35 /* Stay Filled With The Spirit.htm */;
+		name = "Stay Filled With The Spirit.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1469;
+		vrLoc = 0;
+	};
+	B9B6415713CC558000F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B3D1357020B00AEE56A /* PredictSearchViewController.m */;
+		name = "PredictSearchViewController.m: 280";
+		rLen = 0;
+		rLoc = 9701;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 0;
+	};
+	B9B6415813CC558000F3F549 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B3B1357020B00AEE56A /* AdvancedSearchViewController.m */;
+		name = "AdvancedSearchViewController.m: 228";
+		rLen = 0;
+		rLoc = 6439;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 1246;
+	};
+	B9BC046C13C084F20038FD30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A0474A1397BF39004C9898 /* SettingsViewController.h */;
+		name = "SettingsViewController.h: 30";
+		rLen = 0;
+		rLoc = 882;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 0;
+	};
+	B9BC046D13C084F20038FD30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A0474B1397BF39004C9898 /* SettingsViewController.m */;
+		name = "SettingsViewController.m: 56";
+		rLen = 0;
+		rLoc = 1222;
+		rType = 0;
+		vrLen = 751;
+		vrLoc = 704;
+	};
+	B9BDD85E1375D272001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B471357020B00AEE56A /* MyStuffViewController.m */;
+		name = "MyStuffViewController.m: 190";
+		rLen = 0;
+		rLoc = 5564;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 5087;
+	};
+	B9BDD8981375E791001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B965C87C137487AE0049CBD1 /* OneYearStudyPlan.htm */;
+		name = "OneYearStudyPlan.htm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1355;
+		vrLoc = 0;
+	};
+	B9BDDAAE137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A15E1E136DBC710022DA45 /* VersesforPredictSearchViewController.h */;
+		name = "VersesforPredictSearchViewController.h: 18";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 0;
+	};
+	B9BDDAB0137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9FF8462135D91CA00069AEE /* ReleaseNoteViewController.h */;
+		name = "ReleaseNoteViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	B9BDDAB1137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9FF8463135D91CA00069AEE /* ReleaseNoteViewController.m */;
+		name = "ReleaseNoteViewController.m: 38";
+		rLen = 0;
+		rLoc = 1102;
+		rType = 0;
+		vrLen = 1106;
+		vrLoc = 39;
+	};
+	B9BDDAB2137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B987AD04135C944D000A84D6 /* AboutImageViewController.h */;
+		name = "AboutImageViewController.h: 14";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	B9BDDAB3137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B987AD05135C944D000A84D6 /* AboutImageViewController.m */;
+		name = "AboutImageViewController.m: 12";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 1094;
+		vrLoc = 0;
+	};
+	B9BDDAB8137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9A15D5A136D76560022DA45 /* ChaptersforPredictSearchViewController.h */;
+		name = "ChaptersforPredictSearchViewController.h: 16";
+		rLen = 71;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 0;
+	};
+	B9BDDABE137AF474001591E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B421357020B00AEE56A /* HelpViewController.h */;
+		name = "HelpViewController.h: 13";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	B9C125C6137491C300C00CCA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6C501357035B00AEE56A /* Y-Concordance.html */;
+		name = "Y-Concordance.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3388;
+		vrLoc = 0;
+	};
+	B9CE64881356FA6F00BD1250 /* ROR_Bible */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ROR_Bible;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B9CE64921356FA8E00BD1250 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B9CE64931356FA8E00BD1250 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B9D8174F138BCCAC00202A8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B401357020B00AEE56A /* MyBookmarkViewController.h */;
+		name = "MyBookmarkViewController.h: 11";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	B9D8176B138BEFCB00202A8D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B411357020B00AEE56A /* MyBookmarkViewController.m */;
+		name = "MyBookmarkViewController.m: 167";
+		rLen = 0;
+		rLoc = 4560;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 3731;
+	};
+	B9F260ED13D8C299007EE12C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B511357020B00AEE56A /* InspirationArticlesViewController.m */;
+		name = "InspirationArticlesViewController.m: 21";
+		rLen = 0;
+		rLoc = 558;
+		rType = 0;
+		vrLen = 1110;
+		vrLoc = 0;
+	};
+	B9F260EE13D8C299007EE12C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B4F1357020B00AEE56A /* ChaptersViewController.m */;
+		name = "ChaptersViewController.m: 908";
+		rLen = 84;
+		rLoc = 47858;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 47190;
+	};
+	B9F47A19137B089100E3DACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B97E6B441357020B00AEE56A /* MyNotesViewController.h */;
+		name = "MyNotesViewController.h: 14";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	B9FF8462135D91CA00069AEE /* ReleaseNoteViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 525}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	B9FF8463135D91CA00069AEE /* ReleaseNoteViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 845}}";
+			sepNavSelRange = "{1102, 0}";
+			sepNavVisRange = "{39, 1106}";
+		};
+	};
+}

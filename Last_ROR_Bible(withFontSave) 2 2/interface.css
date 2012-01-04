@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+a{
+	text-decoration:none;
+	font-weight:bold;
+	font-size:18px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-align: left;
+}
+
+#main{width:719px;
+}
+
+#header{width:719px;
+background:url(top_img.jpg);
+height:238px;
+float:left}
+table td{
+	height:50px;
+	line-height:50px;
+}
+#header_title_personal_word{
+	margin:88px 0 0 243px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:28px;
+	text-transform:uppercase;}
+	
+#header_title_reading_plan{
+	margin:88px 0 0 193px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:28px;
+	text-transform:uppercase;}
+	
+#header_title_reading_plan_view {
+	float:left;
+	font-family:Cambria;
+	font-size:16px;
+	margin:8px 0 0 25px;
+	font-weight:100;
+	color: #990000;
+	}	
+
+#header_title_reading_plan_view a {
+	width:100px;
+	color: #990000;
+	font-weight:lighter;
+	font-size:15px;
+	}	
+
+
+
+#header_title_reading_plan_2yr{
+	margin:0 0 30px 165px;
+	font-family:Cambria;
+	font-size:28px;
+	float:left;
+}
+
+#centre{width:581px;
+height:auto;
+padding:0 69px 0 69px;
+float:left;}
+
+.zebra{ background: #B7B7FF;}
+
+#centre_reading_plan{
+	width:550px;
+	height:auto;
+	padding:0 55px 0 65px;
+	float:left;
+	margin-bottom:45px;
+}
+
+
+#centre_tx{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	margin-bottom:45px;}
+	
+#centre_tx_reading_plan{
+	font-weight:bold; font-size:20px; font-family:"Cambria" ;}
+	#centre_tx_reading_plan2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;}
+	
+#authors_name{
+	font-family:"Stuyvesant BT";
+	float:right;
+	font-size:33px;
+	font-weight:bold;
+}
+
+#footer{width:719px;
+height:93px;
+background:url(bottom_img.jpg);
+float:left;}
+#main #centre_reading_plan #centre_tx_reading_plan table {
+	text-align: left;
+}

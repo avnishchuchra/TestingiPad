@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#insp_art{
+	width:685px;
+	margin:10px auto;
+	-webkit-border-radius:30px 30px 30px 30px;
+	moz-border-radius:30px 30px 30px 30px;
+	border-radius:30px 30px 30px 30px;
+	border-style:solid;
+	border-color:FF9999;
+	border-width:thin;
+	background-color:FFF0F0;
+	padding:5px 5px;
+	}
+
+#insp_tx_header{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:0099CC;
+	font-size:24px;
+	margin:0 auto;
+	text-align: center;
+	}
+#insp_tx_script{
+	text-align:center;
+}
